@@ -101,7 +101,8 @@ opiekunów z punktu 2 odwraca się.
 
 ## 2026-10-19 — Siedziba koła: bud. D-21, pok. 336
 
-Status wpisu: w uzgodnieniu (adres tymczasowy).
+Status wpisu: przyjęty (miejsce potwierdzone 19.10.2026; wcześniej:
+w uzgodnieniu, adres tymczasowy).
 
 - **Co:** adres siedziby w regulaminie (§ 1 ust. 3): Katedra Sztucznej
   Inteligencji Wydziału Informatyki i Telekomunikacji, bud. D-21,

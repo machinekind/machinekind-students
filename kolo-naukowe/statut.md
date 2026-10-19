@@ -530,7 +530,7 @@ Poza tekstem regulaminu, ale potrzebne do rejestracji:
 | Pisemne zgody obu opiekunów i ich podpisy pod regulaminem | do uzyskania, [szablon](dokumenty/README.md) |
 | Tryb rejestracji koła międzywydziałowego: czy wystarczą zgody obu wydziałów, który wydział opiniuje wnioski o finansowanie (§ 1 ust. 3, § 12 ust. 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; koła międzywydziałowe z kilkoma opiekunami istnieją na Wydziale Mechanicznym (np. PWR Racing Team) |
 | Członkowie spoza uczelni jako wspierający (§ 5 ust. 1 pkt 1.3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
-| Siedziba bud. D-21, pok. 336 (§ 1 ust. 3) | wpisana tymczasowo; potwierdzić z Katedrą Sztucznej Inteligencji, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Siedziba bud. D-21, pok. 336 (§ 1 ust. 3) | potwierdzona 19.10.2026, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
 | Umowa uczelnia–Machinekind (§ 13 ust. 2) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Zasady uczelni dla współpracy z funduszami i venture builderami oraz komercjalizacji wyników członków (§ 13 ust. 7–8) | do sprawdzenia w Sekcji Wsparcia Organizacji Studenckich i w przepisach PWr o komercjalizacji |
