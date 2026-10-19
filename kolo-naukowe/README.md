@@ -9,7 +9,9 @@ domen Machinekind (lokomocja, modele świata i VLM, konstrukcja i napędy,
 prowadzenie projektu i forma) na zasadach kolektywu: każdy semestr kończy się
 czymś, co się uruchamia, a nie prezentacją.
 
-Cele koła (regulamin, § 2): rozwój zdolności w kierunku physical AI;
+Cele koła (regulamin, § 2): rozwój zdolności w kierunku physical AI
+w pełnym zakresie budowy humanoidów i czworonogów (AI, automatyka
+i sterowanie, robotyka, mechanika, napędy, elektronika, wytwarzanie);
 rozwój przedsiębiorczości przez tworzenie zespołów startupowych,
 wspieranie startupów członków i łączenie ich z funduszami inwestycyjnymi
 i venture builderami; badania naukowe. Koło pracuje jak startup, ale samo

@@ -20,7 +20,11 @@ w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie
 wyższym i nauce.
 
 **Cele działania.** Rozwój zdolności członków w kierunku physical AI, czyli
-inteligencji działającej w fizycznym świecie, na prawdziwym sprzęcie;
+inteligencji działającej w fizycznym świecie, na prawdziwym sprzęcie,
+w pełnym zakresie potrzebnym do budowy robotów humanoidalnych
+i czworonożnych: sztuczna inteligencja, automatyka i sterowanie, robotyka,
+mechanika i konstrukcja, napędy, elektronika i systemy wbudowane,
+wytwarzanie;
 rozwój przedsiębiorczości technologicznej przez tworzenie zespołów
 startupowych, wspieranie startupów członków i łączenie ich z funduszami
 inwestycyjnymi i venture builderami; prowadzenie badań naukowych z zakresu

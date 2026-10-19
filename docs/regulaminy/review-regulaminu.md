@@ -65,7 +65,7 @@ pokazać.
 | Plan kadencji | w pierwszej 1/3 kadencji, z SWOT i preliminarzem | brak | tylko podsumowanie | **§ 9 ust. 12: plan w 2 miesiące, podsumowanie na koniec** |
 | Ewaluacja projektów | w miesiąc od końca działania | brak | brak | **§ 3 ust. 3** |
 | Walne uchyla uchwały Zarządu | tak | brak | brak | **§ 8 ust. 8 pkt 8** |
-| Sekcje | powoływane przez Zarząd lub walne | KBI: sekcje z minimalnym składem | 4 sekcje = domeny | bez zmian; prowadzący sekcję uczestniczy w przeglądzie |
+| Sekcje | powoływane przez Zarząd lub walne | KBI: sekcje z minimalnym składem | 4 sekcje = domeny | **5 sekcji (4 domeny + Control & Embedded Systems), zespoły projektowe dla konkretnych maszyn (§ 11)** |
 | Własność intelektualna | oświadczenie w 30 dni | brak | oświadczenie w 30 dni | bez zmian; dopisana poufność wobec partnerów |
 | Przedsięwzięcia członków | brak | M3, SISK: działalność odpłatna koła | brak | **§ 13 ust. 5–9: wsparcie, ale przedsięwzięcie poza kołem** |
 | BHP i sprzęt | dbanie o zasoby | UMW, Automatyk | BHP, instruktaż, rewers | bez zmian |

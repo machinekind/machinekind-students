@@ -61,12 +61,31 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    4. jeden zespół prowadzi całą drogę: od modelu, przez sprzęt, po
       uruchomienie.
 3. **Cele.** Celami Koła są:
-   1. **rozwój zdolności członków w kierunku physical AI**: nauka
-      i praktyka w zakresie lokomocji uczonej w symulacji i przenoszonej
-      na maszynę (sim-to-real), modeli świata i modeli
-      wizyjno-językowych, robotów kroczących, w tym czworonożnych
-      i humanoidalnych, manipulacji oraz konstrukcji i napędów maszyn,
+   1. **rozwój zdolności członków w kierunku physical AI** w pełnym
+      zakresie potrzebnym do zaprojektowania, zbudowania i uruchomienia
+      robotów kroczących, w szczególności humanoidalnych i czworonożnych,
       przez pracę na działającym sprzęcie i z realnymi danymi;
+      zakres ten obejmuje:
+      1. sztuczną inteligencję robotów: uczenie lokomocji w symulacji
+         i przenoszenie na maszynę (sim-to-real), uczenie ze wzmocnieniem,
+         modele świata, modele wizyjno-językowe, percepcję i planowanie;
+      2. automatykę i sterowanie: sterowanie ruchem, siłą i momentem,
+         estymację stanu, fuzję danych z czujników, sterowanie
+         w czasie rzeczywistym;
+      3. robotykę: kinematykę i dynamikę robotów kroczących, równowagę
+         i chód, manipulację i chwytanie, interakcję człowiek–robot;
+      4. mechanikę i konstrukcję maszyn: projektowanie CAD, obliczenia
+         wytrzymałościowe, mechanizmy i przekładnie, układy nóg i rąk,
+         dobór materiałów;
+      5. napędy, elektronikę i systemy wbudowane: silniki i ich
+         sterowniki, elektronikę mocy, zasilanie i akumulatory, czujniki,
+         mikrokontrolery, magistrale komunikacyjne;
+      6. oprogramowanie robotów: systemy czasu rzeczywistego, middleware
+         robotyczny, symulację i cyfrowe bliźniaki, narzędzia do zbierania
+         danych;
+      7. wytwarzanie i integrację: druk 3D, obróbkę skrawaniem, cięcie
+         laserowe, montaż, testy, bezpieczeństwo maszyn;
+      8. design przemysłowy i prowadzenie projektów inżynierskich;
    2. **rozwój przedsiębiorczości technologicznej**, w szczególności:
       1. tworzenie zespołów startupowych z członków Koła, łączących
          kompetencje z różnych sekcji i wydziałów;
@@ -353,18 +372,30 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
 
 ## § 11. Sekcje
 
-1. Prace Koła prowadzą sekcje odpowiadające domenom Machinekind:
-   1. Locomotion AI;
-   2. World Models & VLM;
-   3. Robotics Engineering & Manufacturing;
-   4. Design & Program.
+1. Prace Koła prowadzą sekcje. Pierwsze cztery odpowiadają domenom
+   Machinekind, piąta obejmuje automatykę i elektronikę:
+   1. **Locomotion AI**: uczenie lokomocji, uczenie ze wzmocnieniem,
+      symulacja, sim-to-real;
+   2. **World Models & VLM**: percepcja, modele świata, modele
+      wizyjno-językowe, planowanie;
+   3. **Robotics Engineering & Manufacturing**: mechanika, konstrukcja,
+      napędy, kinematyka i dynamika, wytwarzanie i montaż;
+   4. **Control & Embedded Systems**: automatyka i sterowanie, elektronika,
+      zasilanie, czujniki, systemy wbudowane, oprogramowanie czasu
+      rzeczywistego;
+   5. **Design & Program**: forma i design przemysłowy, prowadzenie
+      projektów, przygotowanie zespołów startupowych.
 2. Pracą sekcji kieruje prowadzący sekcję, wybierany przez członków sekcji
    na semestr i zatwierdzany przez Zarząd. Prowadzący sekcję odpowiada za
    cele semestru sekcji, potwierdza spełnienie kryteriów odbioru zadań
    i uczestniczy w przeglądzie aktywności (§ 6 ust. 2).
 3. Mentora merytorycznego sekcji może wskazać Machinekind; mentor nie jest
    członkiem władz Koła.
-4. Walne Zgromadzenie może utworzyć nową sekcję albo zlikwidować sekcję,
+4. Do budowy konkretnej maszyny, w szczególności robota humanoidalnego
+   lub czworonożnego, Zarząd powołuje zespół projektowy złożony
+   z członków różnych sekcji, z kierownikiem projektu. Zespół projektowy
+   ma cel, harmonogram i kryterium odbioru zgodne z § 2 ust. 2 pkt 1.
+5. Walne Zgromadzenie może utworzyć nową sekcję albo zlikwidować sekcję,
    która przez semestr nie prowadzi prac.
 
 ## § 12. Opiekun naukowy
