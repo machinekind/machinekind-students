@@ -61,9 +61,11 @@ założycielom, opiekunowi i kolektywowi.
 3. Środkami i mieniem w dyspozycji Koła gospodaruje Zarząd, z zastrzeżeniem
    uprawnień opiekuna i przepisów uczelni. Szczegóły, w tym kto podpisuje
    wnioski i rozliczenia ze strony Zarządu: do ustalenia.
-4. Sprzęt udostępniany przez Machinekind pozostaje własnością kolektywu,
-   chyba że umowa stanowi inaczej. Forma udostępnienia: do ustalenia
-   (umowa o współpracy).
+4. Sprzęt udostępniany Kołu pozostaje własnością jego właściciela.
+   Robot W01-TEK jest własnością Politechniki Wrocławskiej (strona
+   machinekind.ai); sprzęt Machinekind pozostaje własnością kolektywu,
+   chyba że umowa stanowi inaczej. Zasady dostępu członków do sprzętu:
+   do ustalenia z właścicielem (uczelnia lub kolektyw).
 
 ## § 4. Członkostwo
 
@@ -204,5 +206,6 @@ założycielom, opiekunowi i kolektywowi.
 4. Rektor w drodze decyzji administracyjnej rozwiązuje Koło, które rażąco
    lub uporczywie narusza przepisy prawa, statut uczelni, regulamin studiów
    lub niniejszy statut (art. 111 ust. 4 ustawy).
-5. Los mienia i sprzętu po rozwiązaniu Koła: do ustalenia (sprzęt
-   Machinekind wraca do kolektywu, mienie uczelni do jednostki).
+5. Los mienia i sprzętu po rozwiązaniu Koła: do ustalenia (sprzęt wraca
+   do właściciela: mienie uczelni do jednostki, sprzęt Machinekind do
+   kolektywu).

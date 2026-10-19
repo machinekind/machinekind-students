@@ -62,7 +62,7 @@ Propozycje, nie decyzje. Każdą trzeba przyjąć w PR do `statut.md`.
 | Opiekun organizacyjny lub drugi opiekun obok naukowego | UPWr, UMW | § 6, [#2](https://github.com/machinekind/machinekind-students/issues/2) |
 | Siedziba lub miejsce pracy poza uczelnią zgłoszone przez partnera | UMW § 3 | § 1 ust. 4, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Plan i podsumowanie kadencji; sprawozdanie jako dorobek (co działa), nie tylko finanse | Solvro, AWF | § 8 |
-| Rozdzielenie mienia przy rozwiązaniu: uczelni wraca do uczelni, sprzęt Machinekind do kolektywu | KBI, Automatyk | już w § 10 ust. 5 |
+| Rozdzielenie mienia przy rozwiązaniu: każdy sprzęt wraca do właściciela (W01-TEK jest własnością PWr) | KBI, Automatyk | już w § 10 ust. 5 |
 
 Czego nie przejmować:
 

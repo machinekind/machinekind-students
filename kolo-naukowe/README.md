@@ -21,6 +21,18 @@ czymś, co się uruchamia, a nie prezentacją.
 - Równoległe eksperymenty, na które zespół ośmiu osób nie ma czasu.
 - Zakotwiczenie na uczelni: dostęp do laboratoriów, obróbki i promotorów.
 
+## Punkt wyjścia: istniejąca współpraca z PWr
+
+Według strony kolektywu Machinekind już pracuje z Politechniką Wrocławską
+(„PWr × Machinekind”). Robot W01-TEK powstał w Laboratorium Mechatroniki
+i Robotyki na Wydziale Mechanicznym, pod kierownictwem naukowym osób z tego
+laboratorium i z Katedry Sztucznej Inteligencji, i jest własnością PWr.
+Szczegóły w [docs/machinekind.md](../docs/machinekind.md).
+
+To fakt, nie decyzja: wybór uczelni, jednostki i opiekuna zostaje otwarty
+(#1, #2). Strona nie mówi, czy istnieje umowa o współpracy ani co
+obejmuje: do ustalenia.
+
 ## Otwarte pytania
 
 | Pytanie | Dlaczego ważne | Stan | Issue |
@@ -29,7 +41,7 @@ czymś, co się uruchamia, a nie prezentacją.
 | Kto jest opiekunem naukowym? | Warunek formalny rejestracji; osoba z uczelni, nie z kolektywu | do ustalenia | [#2](https://github.com/machinekind/machinekind-students/issues/2) |
 | Jaka forma prawna Machinekind? | Potrzebna do umowy o współpracy i do rozliczania sprzętu | do ustalenia | [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Kto jest właścicielem wyników? | Licencja Apache-2.0 jako domyślna, ale uczelnie mają własne regulaminy IP | do ustalenia | [#4](https://github.com/machinekind/machinekind-students/issues/4) |
-| Gdzie fizycznie pracuje koło? | Sprzęt kolektywu jest we Wrocławiu; potrzebne miejsce, w którym studenci mogą go używać | do ustalenia | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Gdzie fizycznie pracuje koło? | Sprzęt jest we Wrocławiu (W01-TEK w laboratorium PWr, własność uczelni); potrzebne miejsce, w którym studenci mogą go używać | do ustalenia | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Jak wygląda rekrutacja? | Zadanie wstępne per domena czy otwarte spotkanie | do ustalenia | [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Budżet pierwszego roku? | Części, obróbka, GPU na trening; źródła: uczelnia, kolektyw, granty | do ustalenia | [#7](https://github.com/machinekind/machinekind-students/issues/7) |
 
