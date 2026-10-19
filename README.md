@@ -15,7 +15,8 @@ osobne repozytoria i osobny kontekst.
 | [docs/rejestracja-kola.md](docs/rejestracja-kola.md) | Jak rejestruje się koło na PWr i UWr: dokumenty, terminy, kto decyduje |
 | [docs/regulaminy/](docs/regulaminy/README.md) | Wzorce: akty wrocławskich uczelni i regulaminy istniejących kół, co z nich przejąć |
 | [kolo-naukowe/README.md](kolo-naukowe/README.md) | Cel koła, otwarte pytania, kolejne kroki |
-| [kolo-naukowe/statut.md](kolo-naukowe/statut.md) | Szkielet statutu do uzupełnienia |
+| [kolo-naukowe/statut.md](kolo-naukowe/statut.md) | Regulamin koła do złożenia na PWr |
+| [kolo-naukowe/dokumenty/](kolo-naukowe/dokumenty/README.md) | Dokumenty założycielskie i pliki DOCX do druku |
 | [kolo-naukowe/program.md](kolo-naukowe/program.md) | Szkielet programu semestralnego |
 | [kolo-naukowe/decyzje.md](kolo-naukowe/decyzje.md) | Dziennik podjętych decyzji |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Jak zgłaszać zmiany i issue, konwencja `Status:`, dane osobowe |

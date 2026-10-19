@@ -15,8 +15,9 @@ Oznaczenia w tym dokumencie:
 Opracowania aktów pozostałych wrocławskich uczelni i regulaminów
 istniejących kół są w [docs/regulaminy/](regulaminy/README.md).
 
-Wybór uczelni dla koła Machinekind nie jest podjęty (patrz
-[kolo-naukowe/README.md](../kolo-naukowe/README.md)), stąd opis obu.
+Decyzja z 19.10.2026: koło zakładamy na PWr, przy Wydziale Mechanicznym
+(patrz [kolo-naukowe/decyzje.md](../kolo-naukowe/decyzje.md)). Opis UWr
+zostaje jako materiał porównawczy.
 
 ## Wspólna podstawa prawna
 

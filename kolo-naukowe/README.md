@@ -43,12 +43,12 @@ obejmuje: do ustalenia.
 
 | Pytanie | Dlaczego ważne | Stan | Issue |
 | --- | --- | --- | --- |
-| Przy której uczelni i jednostce? | Koło musi mieć opiekuna naukowego i być zarejestrowane w uczelnianym rejestrze kół | do ustalenia | [#1](https://github.com/machinekind/machinekind-students/issues/1) |
-| Kto jest opiekunem naukowym? | Warunek formalny rejestracji; osoba z uczelni, nie z kolektywu | do ustalenia | [#2](https://github.com/machinekind/machinekind-students/issues/2) |
+| Przy której uczelni i jednostce? | Koło musi mieć opiekuna naukowego i być zarejestrowane w uczelnianym rejestrze kół | postanowione: PWr, Wydział Mechaniczny; czeka na zgodę wydziału | [#1](https://github.com/machinekind/machinekind-students/issues/1) |
+| Kto jest opiekunem naukowym? | Warunek formalny rejestracji; osoba z uczelni, nie z kolektywu | postanowione: J. Szrek i T. Kajdanowicz; czekają zgody | [#2](https://github.com/machinekind/machinekind-students/issues/2) |
 | Jaka forma prawna Machinekind? | Potrzebna do umowy o współpracy i do rozliczania sprzętu | do ustalenia | [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Kto jest właścicielem wyników? | Licencja Apache-2.0 jako domyślna, ale uczelnie mają własne regulaminy IP | do ustalenia | [#4](https://github.com/machinekind/machinekind-students/issues/4) |
-| Gdzie fizycznie pracuje koło? | Sprzęt jest we Wrocławiu (W01-TEK w laboratorium PWr, własność uczelni); potrzebne miejsce, w którym studenci mogą go używać | do ustalenia | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
-| Jak wygląda rekrutacja? | Zadanie wstępne per domena czy otwarte spotkanie | do ustalenia | [#6](https://github.com/machinekind/machinekind-students/issues/6) |
+| Gdzie fizycznie pracuje koło? | Sprzęt jest we Wrocławiu (W01-TEK w laboratorium PWr, własność uczelni); potrzebne miejsce, w którym studenci mogą go używać | postanowione: Laboratorium Mechatroniki i Robotyki (WM); pokój do uzupełnienia | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Jak wygląda rekrutacja? | Zadanie wstępne per domena czy otwarte spotkanie | postanowione: zadanie wstępne w sekcji | [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Budżet pierwszego roku? | Części, obróbka, GPU na trening; źródła: uczelnia, kolektyw, granty | do ustalenia | [#7](https://github.com/machinekind/machinekind-students/issues/7) |
 
 Każde pytanie ma issue z etykietą `do-ustalenia`; dyskusja i decyzja idą

@@ -1,31 +1,27 @@
 # Regulamin Koła Naukowego Machinekind
 
-Status: szkic. Projekt regulaminu w układzie szablonu Politechniki
-Wrocławskiej ([opracowanie](../docs/regulaminy/uczelnia-pwr.md)); pokrywa
-też elementy wymagane przez UWr (§ 12 pkt 2 zarządzenia 219/2023). Na UWr
-ten dokument nazywa się „statutem”; stąd nazwa pliku. Wzorce:
-[docs/regulaminy/](../docs/regulaminy/README.md); porównanie z innymi
-regulaminami: [review](../docs/regulaminy/review-regulaminu.md).
+Status: w uzgodnieniu. Projekt regulaminu do złożenia na Politechnice
+Wrocławskiej, w układzie szablonu uczelni
+([opracowanie](../docs/regulaminy/uczelnia-pwr.md)). Decyzje założycielskie:
+[decyzje.md](decyzje.md); porównanie z innymi regulaminami:
+[review](../docs/regulaminy/review-regulaminu.md); dokumenty do złożenia:
+[dokumenty/](dokumenty/README.md). Nazwa pliku `statut.md` zostaje dla
+ciągłości odnośników.
 
-Jak czytać:
-
-- **[propozycja]**: wartość wpisana, żeby tekst był kompletny; zatwierdza ją
-  zebranie założycielskie.
-- **do ustalenia**: decyzja, której nie da się podjąć bez uczelni lub
-  kolektywu; powiązane issue w nawiasie.
-- Przed złożeniem regulamin podpisuje kandydat na opiekuna naukowego.
+Regulamin uchwala zebranie założycielskie; przed złożeniem podpisują go
+opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
 
 ---
 
 ## § 1. Postanowienia ogólne
 
-1. Koło Naukowe pod nazwą „Koło Naukowe Machinekind” [propozycja; nazwa
-   do ustalenia z kolektywem i uczelnią], zwane dalej Kołem, jest uczelnianą
-   organizacją studencką w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r.
+1. Koło Naukowe pod nazwą „Koło Naukowe Machinekind”, zwane dalej Kołem,
+   jest uczelnianą organizacją studencką w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r.
    Prawo o szkolnictwie wyższym i nauce.
-2. Koło może używać skróconej nazwy „KN Machinekind” [propozycja].
-3. Koło działa przy: do ustalenia (wydział i jednostka; #1). Siedziba Koła:
-   do ustalenia (budynek, pokój; #5).
+2. Koło może używać skróconej nazwy „KN Machinekind”.
+3. Koło działa w Politechnice Wrocławskiej, zwanej dalej uczelnią, przy
+   Wydziale Mechanicznym. Siedzibą Koła jest Laboratorium Mechatroniki
+   i Robotyki Wydziału Mechanicznego, bud. …, pok. ….
 4. Koło opiera swoją działalność na dobrowolnej pracy członków.
 5. Podstawę prawną działania Koła stanowią: niniejszy regulamin, statut
    uczelni i inne akty prawa wewnętrznego uczelni oraz przepisy prawa
@@ -77,7 +73,7 @@ Jak czytać:
 1. Koło realizuje cele przez:
    1. zadania semestralne prowadzone w sekcjach (§ 11);
    2. spotkania całego Koła z pokazem działających wyników, co najmniej
-      raz w miesiącu [propozycja];
+      raz w miesiącu;
    3. publiczny pokaz wyników na koniec każdego semestru, otwarty dla
       partnerów i potencjalnych użytkowników;
    4. udział w konferencjach, zawodach, hackathonach i seminariach;
@@ -106,8 +102,9 @@ Jak czytać:
    pozostaje własnością kolektywu, chyba że umowa stanowi inaczej.
 6. Członek korzysta ze sprzętu na zasadach ustalonych przez właściciela
    sprzętu i Zarząd. Wypożyczenie sprzętu poza miejsce pracy Koła wymaga
-   pisemnego potwierdzenia (rewersu). Zasady szczegółowe: do ustalenia
-   z właścicielem sprzętu (#5).
+   pisemnego potwierdzenia (rewersu). Zasady szczegółowe
+   określa regulamin korzystania ze sprzętu, uchwalany przez Zarząd
+   w porozumieniu z właścicielem sprzętu.
 7. Na koniec kadencji Zarząd przeprowadza inwentaryzację sprzętu
    i dokumentów Koła i przekazuje ją następcom.
 
@@ -122,13 +119,12 @@ Jak czytać:
       aktywności (§ 6 ust. 1);
    3. **członków wspierających**: pracowników i absolwentów uczelni oraz
       innych osób wspierających Koło, w tym członków kolektywu Machinekind;
-      dopuszczalność osób spoza uczelni: do potwierdzenia z uczelnią (#6);
    4. **członków honorowych**: osoby szczególnie zasłużone dla Koła,
       powołane uchwałą Walnego Zgromadzenia.
 2. Przyjęcie do Koła następuje uchwałą Zarządu po złożeniu deklaracji
    członkowskiej i wykonaniu zadania wstępnego w wybranej sekcji. Zadania
-   wstępne ogłasza Zarząd na początku każdego semestru. Tryb rekrutacji:
-   [propozycja], do ostatecznego ustalenia (#6).
+   wstępne ogłasza Zarząd na początku każdego semestru. Rekrutacja
+   trwa przez pierwszy miesiąc semestru.
 3. Deklaracja członkowska zawiera akceptację regulaminu oraz zgodę na
    przetwarzanie danych osobowych przez uczelnię. Dane członków nie są
    publikowane w repozytoriach Koła.
@@ -153,7 +149,7 @@ Jak czytać:
       uzgodnionych z partnerami;
    6. dbać o dobre imię Koła, uczelni i Machinekind.
 7. Członkostwo można zawiesić na pisemny wniosek członka, na okres do
-   jednego semestru [propozycja]. Okres zawieszenia nie jest objęty
+   jednego semestru. Okres zawieszenia nie jest objęty
    przeglądem aktywności.
 8. Członkostwo ustaje wskutek:
    1. pisemnej rezygnacji;
@@ -167,7 +163,7 @@ Jak czytać:
 
 1. **Minimum aktywności.** W każdym semestrze członek aktywny ukończył
    co najmniej jedno zadanie z kryterium odbioru albo wniósł do zadania
-   sekcji wkład potwierdzony przez prowadzącego sekcję [propozycja].
+   sekcji wkład potwierdzony przez prowadzącego sekcję.
    Członek nowy wykonuje w pierwszym semestrze zadanie wstępne.
 2. **Przegląd.** Na koniec każdego semestru Zarząd razem z prowadzącymi
    sekcje przeprowadza przegląd aktywności członków i ustala, kto spełnia
@@ -175,7 +171,7 @@ Jak czytać:
    indywidualnie; nie są publikowane.
 3. **Upomnienie i okres naprawczy.** Członek, który nie spełnił minimum,
    otrzymuje pisemne upomnienie z opisem braków i zadaniem na okres
-   naprawczy, trwający do końca kolejnego semestru [propozycja].
+   naprawczy, trwający do końca kolejnego semestru.
 4. **Przesłanki wykluczenia.** Członka można wykluczyć wyłącznie z powodu:
    1. niespełnienia minimum aktywności po okresie naprawczym;
    2. rażącego lub powtarzającego się naruszenia zasad BHP lub zasad
@@ -186,7 +182,7 @@ Jak czytać:
       przepisów uczelni.
 5. **Wniosek.** Wniosek o wszczęcie postępowania może złożyć członek
    Zarządu, prowadzący sekcję albo co najmniej trzech członków aktywnych
-   [propozycja]. Wniosek wskazuje przesłankę z ust. 4 i fakty.
+  . Wniosek wskazuje przesłankę z ust. 4 i fakty.
 6. **Prawo do wyjaśnień.** Zarząd zawiadamia członka na piśmie, w tym
    pocztą elektroniczną na adres uczelniany, o wniosku i jego uzasadnieniu.
    Członek ma 7 dni na złożenie wyjaśnień na piśmie lub ustnie na
@@ -240,16 +236,15 @@ Jak czytać:
 2. Walne Zgromadzenie zwołuje Zarząd:
    1. co najmniej raz w semestrze;
    2. na wniosek opiekuna naukowego;
-   3. na wniosek co najmniej 1/3 członków z prawem głosu [propozycja];
+   3. na wniosek co najmniej 1/3 członków z prawem głosu;
    4. w celu rozpatrzenia odwołania (§ 6 ust. 10).
 3. Zarząd zawiadamia członków o terminie, miejscu i porządku obrad co
-   najmniej 7 dni przed Walnym Zgromadzeniem [propozycja].
+   najmniej 7 dni przed Walnym Zgromadzeniem.
 4. Walne Zgromadzenie może obradować i głosować zdalnie, z identyfikacją
    uczestników przez konta uczelniane. Głosowania tajne w trybie zdalnym
    przeprowadza się narzędziem zapewniającym tajność.
 5. Uchwały zapadają zwykłą większością głosów przy obecności co najmniej
-   połowy członków z prawem głosu [propozycja; szablon PWr proponuje 2/3],
-   chyba że regulamin stanowi inaczej.
+   połowy członków z prawem głosu chyba że regulamin stanowi inaczej.
 6. Jeżeli w pierwszym terminie nie ma kworum, Prezes wyznacza drugi termin,
    nie wcześniej niż 1 dzień i nie później niż 14 dni później. W drugim
    terminie kworum stanowią obecni członkowie z prawem głosu.
@@ -290,37 +285,36 @@ Jak czytać:
 4. **Prezes** kieruje pracami Zarządu, reprezentuje Koło na zewnątrz
    i odpowiada za działalność Koła przed władzami uczelni.
 5. **Wiceprezes** zastępuje Prezesa w czasie jego nieobecności oraz
-   koordynuje pracę sekcji i współpracę z partnerami [propozycja podziału
-   zadań].
+   koordynuje pracę sekcji i współpracę z partnerami.
 6. **Skarbnik** prowadzi sprawy finansowe Koła: przygotowuje wnioski
    o dofinansowanie i rozliczenia, prowadzi ewidencję wydatków i sprzętu
    oraz przedstawia sprawozdanie finansowe Walnemu Zgromadzeniu.
 7. Zarząd podejmuje uchwały zwykłą większością głosów przy obecności
    co najmniej dwóch członków Zarządu. Przy równej liczbie głosów
    rozstrzyga głos Prezesa, z zastrzeżeniem § 6 ust. 8.
-8. Kadencja Zarządu trwa jeden rok akademicki [propozycja] i trwa do dnia
+8. Kadencja Zarządu trwa jeden rok akademicki i trwa do dnia
    wyboru nowego Zarządu. Wybory odbywają się na Walnym Zgromadzeniu do
-   końca listopada [propozycja]. Pierwszy Zarząd wybiera zebranie
+   końca listopada. Pierwszy Zarząd wybiera zebranie
    założycielskie; jego kadencja trwa do końca roku akademickiego,
    w którym Koło zostało zarejestrowane. Tę samą funkcję można pełnić
-   najwyżej przez dwie kolejne kadencje [propozycja].
+   najwyżej przez dwie kolejne kadencje.
 9. Członków Zarządu wybiera Walne Zgromadzenie w głosowaniu tajnym, osobno
    na każdą funkcję, zwykłą większością głosów.
 10. Członka Zarządu można odwołać przed końcem kadencji uchwałą Walnego
-    Zgromadzenia podjętą większością 2/3 głosów [propozycja], po
+    Zgromadzenia podjętą większością 2/3 głosów, po
     umożliwieniu mu złożenia wyjaśnień.
 11. Rezygnację z funkcji składa się pisemnie Zarządowi, a rezygnację
     Prezesa opiekunowi naukowemu. Wybory uzupełniające przeprowadza się
-    w ciągu 30 dni [propozycja].
+    w ciągu 30 dni.
 12. W ciągu pierwszych dwóch miesięcy kadencji Zarząd przedstawia Walnemu
     Zgromadzeniu plan kadencji: cele, kalendarz, preliminarz i zasoby.
     Na koniec kadencji przedstawia podsumowanie: co zostało uruchomione,
     stan sprzętu i finansów. Ustępujący Zarząd wprowadza następców
-    w sprawy Koła przez co najmniej miesiąc [propozycja].
+    w sprawy Koła przez co najmniej miesiąc.
 
 ## § 10. Kontrola działań Zarządu
 
-1. Co najmniej trzech członków aktywnych [propozycja] może złożyć Zarządowi
+1. Co najmniej trzech członków aktywnych może złożyć Zarządowi
    pisemne zapytanie dotyczące wydatków, sprzętu, przyjęć i wykluczeń
    członków, projektów oraz relacji z partnerami.
 2. Zarząd odpowiada na piśmie w terminie 14 dni i udostępnia pytającym
@@ -351,7 +345,7 @@ Jak czytać:
 
 1. Opiekuna naukowego powołuje właściwy organ uczelni na wniosek członków
    Koła. Opiekunem jest nauczyciel akademicki zatrudniony na uczelni, który
-   wyraził pisemną zgodę. Kto: do ustalenia (#2).
+   wyraził pisemną zgodę.
 2. Opiekun naukowy:
    1. nadzoruje zgodność działalności Koła z jego celami oraz jego
       działalność merytoryczno-finansową;
@@ -360,21 +354,24 @@ Jak czytać:
    3. opiniuje program semestralny i plan badań Koła;
    4. akceptuje zmiany regulaminu przed ich zgłoszeniem uczelni;
    5. może zwołać Walne Zgromadzenie.
-3. Za zgodą uczelni Koło może mieć więcej niż jednego opiekuna, w tym
-   opiekuna z innej jednostki uczelni, z której pochodzą członkowie Koła.
+3. Koło ma dwóch opiekunów naukowych: jednego z Wydziału Mechanicznego
+   i jednego z jednostki uczelni prowadzącej badania w zakresie sztucznej
+   inteligencji. Każdy z nich wykonuje uprawnienia z ust. 2; dokumenty
+   podpisuje co najmniej jeden z nich.
 
 ## § 13. Współpraca, własność wyników i przedsięwzięcia członków
 
 1. Koło współpracuje z kolektywem Machinekind w zakresie mentoringu
    w sekcjach, dostępu do sprzętu i wspólnych projektów badawczych.
 2. Formalną podstawą współpracy jest umowa między uczelnią a kolektywem.
-   Koło nie zawiera umów samodzielnie. Strony i treść umowy: do ustalenia
-   (#3).
+   Koło nie zawiera umów samodzielnie.
 3. Własność wyników prac członków i zasady ich publikacji określa
    oświadczenie o własności intelektualnej, którego treść Zarząd uzgadnia
-   z właściwymi działami uczelni i z Machinekind. Do czasu uzgodnienia:
-   do ustalenia (#4). Propozycja Koła: kod i dokumentacja na licencji
-   Apache-2.0 w otwartych repozytoriach.
+   z właściwymi działami uczelni i z Machinekind. Zasadą jest
+   publikowanie kodu i dokumentacji na licencji Apache-2.0 w otwartych
+   repozytoriach, o ile oświadczenie lub umowa z partnerem nie stanowią
+   inaczej. Do czasu uzgodnienia treści oświadczenia wyniki publikuje się
+   za zgodą opiekuna naukowego.
 4. Pozyskiwanie sponsorów, patronatów i darowizn odbywa się za zgodą
    i według procedur uczelni.
 5. Koło wspiera członków, którzy chcą przekształcić wyniki prac we własne
@@ -389,7 +386,8 @@ Jak czytać:
 
 1. Zarząd składa sprawozdanie roczne z działalności i wykorzystania
    środków oraz plan pracy, podpisane przez opiekuna naukowego, w terminie
-   wyznaczonym przez uczelnię (PWr: do 15 stycznia za rok poprzedni).
+   wyznaczonym przez uczelnię, nie później niż do 15 stycznia za rok
+   poprzedni.
    Sprawozdanie przedstawia dorobek: co zostało uruchomione, publikacje,
    wystąpienia, nagrody.
 2. Zarząd zawiadamia uczelnię na piśmie, za pośrednictwem właściwej
@@ -426,31 +424,25 @@ Jak czytać:
 ## § 17. Postanowienia końcowe
 
 1. W sprawach nieuregulowanych regulaminem stosuje się przepisy uczelni.
-2. Regulamin wchodzi w życie z dniem uchwalenia przez zebranie
+2. Członkowie-założyciele, którzy podpisali deklarację założycielską,
+   uzyskują status członków aktywnych z dniem zebrania założycielskiego.
+   Zebranie założycielskie wykonuje uprawnienia Walnego Zgromadzenia.
+3. Regulamin wchodzi w życie z dniem uchwalenia przez zebranie
    założycielskie, z zastrzeżeniem przyjęcia przez uczelnię.
 
 ---
 
-## Lista kontrolna przed złożeniem
+## Sprawy otwarte przed złożeniem
+
+Poza tekstem regulaminu, ale potrzebne do rejestracji:
 
 | Sprawa | Stan |
 | --- | --- |
-| Uczelnia, wydział, jednostka, siedziba (§ 1 ust. 3) | do ustalenia, [#1](https://github.com/machinekind/machinekind-students/issues/1), [#5](https://github.com/machinekind/machinekind-students/issues/5) |
-| Nazwa koła, zgoda kolektywu i uczelni na nazwę (§ 1 ust. 1, 9) | do ustalenia |
-| Opiekun naukowy, jego zgoda i podpis pod regulaminem (§ 12) | do ustalenia, [#2](https://github.com/machinekind/machinekind-students/issues/2) |
-| Członkowie spoza uczelni jako wspierający (§ 5 ust. 1 pkt 3) | do potwierdzenia z uczelnią, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
-| Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do ustalenia, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
-| Umowa uczelnia–Machinekind (§ 13 ust. 2) | do ustalenia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
-| Zasady komercjalizacji wyników i przedsięwzięć członków (§ 13 ust. 6) | do sprawdzenia w przepisach uczelni |
-| Zasady dostępu do sprzętu, w tym W01-TEK (§ 4 ust. 5–6) | do ustalenia z właścicielem |
-| Minimum aktywności i progi w § 6 | [propozycja], do zatwierdzenia |
-| Wartości oznaczone [propozycja] | do zatwierdzenia na zebraniu założycielskim |
-| Pierwszy Zarząd: proponowany skład | w [decyzje.md](decyzje.md); wybiera go zebranie założycielskie |
-
-Wariant UWr: tekst zawiera wszystkie elementy z § 12 pkt 2 zarządzenia
-219/2023. Przy wyborze UWr trzeba zmienić nazwę dokumentu na „statut”,
-odwołania do „wykazu organizacji” na „Rejestr kół naukowych”, termin
-sprawozdania na wyznaczony przez Prorektora ds. studenckich i dopisać
-zgłoszenie składu Zarządu w 7 dni od rejestracji. UWr wprost zabrania
-kołom działalności zarobkowej (§ 30), więc § 13 ust. 5–6 trzeba tam
-uzgodnić szczególnie ostrożnie.
+| Zgoda Dziekana lub Prodziekana ds. Studenckich Wydziału Mechanicznego | do uzyskania, [szablon](dokumenty/README.md) |
+| Pisemne zgody obu opiekunów i ich podpisy pod regulaminem | do uzyskania, [szablon](dokumenty/README.md) |
+| Czy PWr dopuszcza dwóch opiekunów z różnych wydziałów (§ 12 ust. 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich |
+| Członkowie spoza uczelni jako wspierający (§ 5 ust. 1 pkt 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
+| Numer budynku i pokoju siedziby (§ 1 ust. 3) | do uzupełnienia, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
+| Umowa uczelnia–Machinekind (§ 13 ust. 2) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
+| Wiceprezes w protokole z wyboru władz | nazwisko poza repo do czasu zgody |

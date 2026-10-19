@@ -31,3 +31,48 @@ Status wpisu: w uzgodnieniu.
   doktorant uczelni, przy której koło działa; status każdej z osób: do
   potwierdzenia.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Decyzje założycielskie: uczelnia, opiekunowie, regulamin
+
+Status wpisu: w uzgodnieniu (wymaga zgód osób i organów wymienionych
+w „Warunki”).
+
+- **Co:**
+  1. **Uczelnia i wydział:** Koło zakładamy na Politechnice Wrocławskiej,
+     przy Wydziale Mechanicznym, z siedzibą w Laboratorium Mechatroniki
+     i Robotyki (#1).
+  2. **Opiekunowie naukowi:** dr hab. inż. Jarosław Szrek, prof. uczelni
+     (Laboratorium Mechatroniki i Robotyki, Katedra Podstaw Konstrukcji
+     Maszyn i Układów Mechatronicznych, Wydział Mechaniczny) oraz dr hab.
+     inż. Tomasz Kajdanowicz (Katedra Sztucznej Inteligencji) (#2).
+  3. **Nazwa:** „Koło Naukowe Machinekind”, skrót „KN Machinekind”.
+  4. **Rekrutacja:** zadanie wstępne w wybranej sekcji, ogłaszane na
+     początku semestru, przez pierwszy miesiąc semestru; potem status
+     członka nowego do ukończenia pierwszego zadania (#6).
+  5. **Wartości regulaminu** dotąd oznaczone jako propozycje przyjmujemy
+     bez zmian, w szczególności: kworum Walnego Zgromadzenia 1/2 członków
+     z prawem głosu, drugi termin po 1–14 dniach; zawiadomienie 7 dni;
+     kadencja Zarządu rok akademicki, wybory do końca listopada, ta sama
+     funkcja najwyżej dwie kadencje; odwołanie członka Zarządu 2/3 głosów;
+     wybory uzupełniające w 30 dni; minimum aktywności: jedno zadanie lub
+     potwierdzony wkład w semestrze; okres naprawczy do końca kolejnego
+     semestru; wniosek o postępowanie lub zapytanie do Zarządu: 3 członków
+     aktywnych; zawieszenie członkostwa do semestru; spotkania co
+     najmniej raz w miesiącu.
+  6. **Publikowanie wyników:** zasadą jest Apache-2.0 w otwartych
+     repozytoriach; do czasu uzgodnienia oświadczenia o własności
+     intelektualnej wyniki publikuje się za zgodą opiekuna (#4 pozostaje
+     otwarte).
+- **Dlaczego:** robot W01-TEK powstał i jest w Laboratorium Mechatroniki
+  i Robotyki Wydziału Mechanicznego i jest własnością PWr; obaj opiekunowie
+  prowadzą już naukowo projekt PWr × Machinekind (strona machinekind.ai);
+  na PWr mienie kół jest przypisane do wydziału, więc siedziba przy
+  sprzęcie upraszcza dostęp. Drugi opiekun z Katedry Sztucznej
+  Inteligencji odpowiada warstwie AI, którą prowadzi kolektyw.
+- **Warunki:** pisemne zgody obu opiekunów; zgoda Dziekana lub
+  Prodziekana ds. Studenckich Wydziału Mechanicznego; potwierdzenie
+  w Sekcji Wsparcia Organizacji Studenckich, że koło może mieć dwóch
+  opiekunów z różnych wydziałów i członków wspierających spoza uczelni;
+  zgoda kolektywu na użycie nazwy Machinekind; uchwała zebrania
+  założycielskiego.
+- **Kto:** Grzegorz Piotrowski.
