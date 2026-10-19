@@ -45,6 +45,7 @@ od samych kół, warto dopisać opracowanie.
 
 Propozycje, nie decyzje. Stan wprowadzenia do projektu regulaminu; porównanie
 z Solvro, KoNaR i PWr Racing Team: [review-regulaminu.md](review-regulaminu.md).
+Review formalny pod wymagania PWr: [review-formalny-pwr.md](review-formalny-pwr.md).
 
 | Propozycja | Skąd | Stan w regulaminie / issue |
 | --- | --- | --- |

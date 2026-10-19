@@ -18,6 +18,9 @@ i z informatora (październik 2025); szczegóły w
 | 5 | Pisemna zgoda Dziekana lub Prodziekana ds. Studenckich, osobno dla każdego wydziału koła międzywydziałowego | [zgoda wydziału](https://dwas.pwr.edu.pl/d/mGBUKOTtQKxVvAkBqREFBPF0WUXJ-XEFABWdbExYbWGFBRAg9RgNtcXccVjU3ClVBDkNGeH9VVVcU/zgoda_wydzialu_na_utworzenie_kn_pwr_szablon.docx) | [zgoda-wydzialu-informatyki-i-telekomunikacji.docx](do-druku/zgoda-wydzialu-informatyki-i-telekomunikacji.docx) (wiodący), [zgoda-wydzialu-mechanicznego.docx](do-druku/zgoda-wydzialu-mechanicznego.docx) | do podpisu na obu wydziałach |
 | 6 | Informacja o opiekunie z jego pisemną zgodą | [zgoda opiekuna](https://dwas.pwr.edu.pl/d/YGBUKOTtQKxVvAkBqREFBPF0WUXJ-XEFABWdbExYbWGFBRAg9RgNtcXccVjU3ClVBDkNGeH9VVVYU/zgoda_na_pelnienie_funkcji_opiekuna_uos_pwr_szablon.docx) | [zgoda-opiekuna-kajdanowicz.docx](do-druku/zgoda-opiekuna-kajdanowicz.docx), [zgoda-opiekuna-szrek.docx](do-druku/zgoda-opiekuna-szrek.docx) | do podpisu przez opiekunów |
 
+Plik 3 jest złożony na oryginalnym szablonie regulaminu PWr (style,
+numeracja 1. / 1.1. / 1.1.1., marginesy, stopka); review formalny:
+[docs/regulaminy/review-formalny-pwr.md](../../docs/regulaminy/review-formalny-pwr.md).
 Pliki 5 i 6 to oryginalne szablony PWr z wpisaną nazwą koła, wydziałem
 i danymi opiekunów, bez zmian w treści. Daty i podpisy wpisuje się ręcznie.
 Szablony z DWAS i ze strony WIT są identyczne (sprawdzone 19.10.2026).
