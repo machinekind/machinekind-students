@@ -31,8 +31,8 @@ inwestycyjnymi i venture builderami; prowadzenie badań naukowych z zakresu
 physical AI. Koło współpracuje z kolektywem Machinekind.
 
 **Jednostka.** Koło będzie międzywydziałowym kołem naukowym działającym przy
-Wydziale Informatyki i Telekomunikacji (wydział wiodący, siedziba
-w Katedrze Sztucznej Inteligencji) oraz przy Wydziale Mechanicznym
+Wydziale Informatyki i Telekomunikacji (wydział wiodący, siedziba w Katedrze Sztucznej Inteligencji,
+bud. D-21, pok. 336) oraz przy Wydziale Mechanicznym
 (Laboratorium Mechatroniki i Robotyki) Politechniki Wrocławskiej.
 
 **Opiekunowie naukowi.** dr hab. inż. Tomasz Kajdanowicz oraz dr hab. inż.

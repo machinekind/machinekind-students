@@ -98,3 +98,17 @@ opiekunów z punktu 2 odwraca się.
   wydziałów; potwierdzenie trybu koła międzywydziałowego w Sekcji
   Wsparcia Organizacji Studenckich.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Siedziba koła: bud. D-21, pok. 336
+
+Status wpisu: w uzgodnieniu (adres tymczasowy).
+
+- **Co:** adres siedziby w regulaminie (§ 1 ust. 3): Katedra Sztucznej
+  Inteligencji Wydziału Informatyki i Telekomunikacji, bud. D-21,
+  pok. 336.
+- **Dlaczego:** regulamin PWr wymaga budynku i pokoju siedziby; to adres
+  na teraz, do czasu ustalenia stałego miejsca koła.
+- **Warunki:** zgoda Katedry Sztucznej Inteligencji na wskazanie pokoju
+  jako siedziby; zmiana adresu to zmiana regulaminu, zgłaszana Rektorowi
+  w 14 dni (§ 14 ust. 2).
+- **Kto:** Grzegorz Piotrowski.

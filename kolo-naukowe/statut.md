@@ -9,7 +9,7 @@ Wrocławskiej, w układzie szablonu uczelni
 ciągłości odnośników.
 
 Regulamin uchwala zebranie założycielskie; przed złożeniem podpisują go
-opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
+opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się ręcznie przy podpisie.
 
 ---
 
@@ -24,7 +24,7 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    i Telekomunikacji oraz przy Wydziale Mechanicznym. Sprawy Koła wobec
    uczelni prowadzi Wydział Informatyki i Telekomunikacji jako wydział
    wiodący. Siedzibą Koła jest Katedra Sztucznej Inteligencji Wydziału
-   Informatyki i Telekomunikacji, bud. …, pok. …. Koło prowadzi prace
+   Informatyki i Telekomunikacji, bud. D-21, pok. 336. Koło prowadzi prace
    także w jednostkach Wydziału Mechanicznego, w szczególności
    w Laboratorium Mechatroniki i Robotyki.
 4. Członkami Koła mogą być studenci i doktoranci wszystkich wydziałów
@@ -530,7 +530,7 @@ Poza tekstem regulaminu, ale potrzebne do rejestracji:
 | Pisemne zgody obu opiekunów i ich podpisy pod regulaminem | do uzyskania, [szablon](dokumenty/README.md) |
 | Tryb rejestracji koła międzywydziałowego: czy wystarczą zgody obu wydziałów, który wydział opiniuje wnioski o finansowanie (§ 1 ust. 3, § 12 ust. 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; koła międzywydziałowe z kilkoma opiekunami istnieją na Wydziale Mechanicznym (np. PWR Racing Team) |
 | Członkowie spoza uczelni jako wspierający (§ 5 ust. 1 pkt 1.3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
-| Numer budynku i pokoju siedziby (§ 1 ust. 3) | do uzupełnienia, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Siedziba bud. D-21, pok. 336 (§ 1 ust. 3) | wpisana tymczasowo; potwierdzić z Katedrą Sztucznej Inteligencji, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
 | Umowa uczelnia–Machinekind (§ 13 ust. 2) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Zasady uczelni dla współpracy z funduszami i venture builderami oraz komercjalizacji wyników członków (§ 13 ust. 7–8) | do sprawdzenia w Sekcji Wsparcia Organizacji Studenckich i w przepisach PWr o komercjalizacji |

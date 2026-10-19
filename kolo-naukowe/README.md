@@ -49,7 +49,7 @@ obejmuje: do ustalenia.
 | Kto jest opiekunem naukowym? | Warunek formalny rejestracji; osoba z uczelni, nie z kolektywu | postanowione: T. Kajdanowicz i J. Szrek; czekają zgody | [#2](https://github.com/machinekind/machinekind-students/issues/2) |
 | Jaka forma prawna Machinekind? | Potrzebna do umowy o współpracy i do rozliczania sprzętu | do ustalenia | [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Kto jest właścicielem wyników? | Licencja Apache-2.0 jako domyślna, ale uczelnie mają własne regulaminy IP | do ustalenia | [#4](https://github.com/machinekind/machinekind-students/issues/4) |
-| Gdzie fizycznie pracuje koło? | Sprzęt jest we Wrocławiu (W01-TEK w laboratorium PWr, własność uczelni); potrzebne miejsce, w którym studenci mogą go używać | postanowione: siedziba w Katedrze Sztucznej Inteligencji (W4N), prace na sprzęcie w Laboratorium Mechatroniki i Robotyki (WM); pokój do uzupełnienia | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Gdzie fizycznie pracuje koło? | Sprzęt jest we Wrocławiu (W01-TEK w laboratorium PWr, własność uczelni); potrzebne miejsce, w którym studenci mogą go używać | postanowione: siedziba w Katedrze Sztucznej Inteligencji (W4N), bud. D-21, pok. 336 (tymczasowo); prace na sprzęcie w Laboratorium Mechatroniki i Robotyki (WM) | [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Jak wygląda rekrutacja? | Zadanie wstępne per domena czy otwarte spotkanie | postanowione: zadanie wstępne w sekcji | [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Budżet pierwszego roku? | Części, obróbka, GPU na trening; źródła: uczelnia, kolektyw, granty | do ustalenia | [#7](https://github.com/machinekind/machinekind-students/issues/7) |
 
