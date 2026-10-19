@@ -195,6 +195,11 @@ Dodatkowo dla koła naukowego:
 
 ### Terminy
 
+- **1 listopada**: do konkursu o tytuł Koła Strategicznego PWr (roczny
+  tytuł z dodatkowym dofinansowaniem) mogą stanąć koła wpisane tego dnia do
+  Spisu Uczelnianych Organizacji Studenckich (potwierdzone,
+  [regulamin konkursu](https://dwas.pwr.edu.pl/download/3mWxtLe044I105MVpqaQxeYl4eGyIlAmxSUmxMDFldQXRSG11KZVZOG24JX2pXUAZTNUdCeHlGQU9CRFAwTFBQZlE2T3pWBk4afxxLclNaBl4QQkhxfWxDS0U1Twte,GYG0AIMAkIIVskRA8lAg4ATx5eQiY-XB0ZAChQHklGVWFKBlB6/regulamin_konkursu_o_tytul_kola_strategicznego_pwr.pdf),
+  § 2; kryteria w [review regulaminu](regulaminy/review-regulaminu.md)).
 - **14 dni** od zmiany zarządu, opiekuna, nazwy, logotypu, regulaminu lub
   innej uchwały walnego zgromadzenia: dokument do Sekcji Wsparcia
   Organizacji Studenckich (potwierdzone, informator i szablon regulaminu).

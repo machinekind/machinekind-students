@@ -9,6 +9,12 @@ domen Machinekind (lokomocja, modele świata i VLM, konstrukcja i napędy,
 prowadzenie projektu i forma) na zasadach kolektywu: każdy semestr kończy się
 czymś, co się uruchamia, a nie prezentacją.
 
+Misja koła (regulamin, § 2): rozwój physical AI, czyli inteligencji, która
+działa w fizycznym świecie na prawdziwym sprzęcie, i badania z tego
+zakresu. Koło pracuje jak startup: krótkie iteracje, pokaz działającego
+wyniku, realny użytkownik, a członków przygotowuje do zakładania własnych
+przedsięwzięć (prowadzonych poza kołem).
+
 ## Co koło daje studentom
 
 - Realny sprzęt i realne dane zamiast zadań podręcznikowych.

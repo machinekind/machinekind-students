@@ -43,26 +43,27 @@ od samych kół, warto dopisać opracowanie.
 
 ## Co przejąć do naszego statutu
 
-Propozycje, nie decyzje. Każdą trzeba przyjąć w PR do `statut.md`.
+Propozycje, nie decyzje. Stan wprowadzenia do projektu regulaminu; porównanie
+z Solvro, KoNaR i PWr Racing Team: [review-regulaminu.md](review-regulaminu.md).
 
-| Propozycja | Skąd | Gdzie w statucie / issue |
+| Propozycja | Skąd | Stan w regulaminie / issue |
 | --- | --- | --- |
-| Sekcje odpowiadające czterem domenom, z prowadzącym sekcji odpowiedzialnym za cele semestru | Solvro, KBI | nowy paragraf po § 5 |
-| Członkostwo dwustopniowe: nowy → aktywny po wykonaniu zadania, które się uruchamia | Solvro, Automatyk | § 4, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
-| Rekrutacja przez zadanie wstępne i okres próbny zakończony pokazem | Automatyk | § 4, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
-| Członkowie wspierający lub bierni bez prawa wyborczego: absolwenci, mentorzy z kolektywu (jeśli uczelnia dopuści) | Solvro, M3, szablon PWr | § 4 |
-| Oświadczenie o własności intelektualnej przy przyjęciu, treść uzgodniona z działem prawnym uczelni | Solvro | § 7 pkt 3, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
-| Zasady BHP i korzystania ze sprzętu jako obowiązek członka; naruszenie jako powód wykluczenia | wzór UMW, Automatyk | § 4 ust. 5–6 |
-| Rewers przy wypożyczeniu sprzętu, rozliczenie sprzętu przy odejściu i po kadencji | UMW, Automatyk, Solvro | § 3 ust. 4 |
-| Ubezpieczenie NNW przy pracy ze sprzętem i wyjazdach | UMW, UWr § 39 | § 4 ust. 5 |
-| Drugi termin walnego z kworum obecnych | szablon PWr, KBI | już w § 5 ust. 6 |
-| Walne zdalne z głosowaniem przez konta uczelniane | KBI | § 5 |
-| Skarbnik jako osobna funkcja; dwa podpisy przy decyzjach finansowych | KBI, SISK, M3 | § 5 ust. 9, § 3 ust. 3 |
-| Członek zarządu od współpracy z partnerami (w tym z Machinekind) | Automatyk | § 5 ust. 9, § 7 |
-| Opiekun organizacyjny lub drugi opiekun obok naukowego | UPWr, UMW | § 6, [#2](https://github.com/machinekind/machinekind-students/issues/2) |
-| Siedziba lub miejsce pracy poza uczelnią zgłoszone przez partnera | UMW § 3 | § 1 ust. 4, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
-| Plan i podsumowanie kadencji; sprawozdanie jako dorobek (co działa), nie tylko finanse | Solvro, AWF | § 8 |
-| Rozdzielenie mienia przy rozwiązaniu: każdy sprzęt wraca do właściciela (W01-TEK jest własnością PWr) | KBI, Automatyk | już w § 10 ust. 5 |
+| Sekcje odpowiadające czterem domenom, z prowadzącym sekcji odpowiedzialnym za cele semestru | Solvro, KBI | wprowadzone: § 11 |
+| Członkostwo dwustopniowe: nowy → aktywny po wykonaniu zadania, które się uruchamia | Solvro, Automatyk | wprowadzone: § 5 ust. 1, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
+| Rekrutacja przez zadanie wstępne i okres próbny zakończony pokazem | Automatyk | wprowadzone: § 5 ust. 2, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
+| Członkowie wspierający lub bierni bez prawa wyborczego: absolwenci, mentorzy z kolektywu (jeśli uczelnia dopuści) | Solvro, M3, szablon PWr | wprowadzone: § 5 ust. 1 pkt 3 |
+| Oświadczenie o własności intelektualnej przy przyjęciu, treść uzgodniona z działem prawnym uczelni | Solvro | wprowadzone: § 5 ust. 6, § 13 ust. 3, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
+| Zasady BHP i korzystania ze sprzętu jako obowiązek członka; naruszenie jako powód wykluczenia | wzór UMW, Automatyk | wprowadzone: § 5 ust. 6, § 6 ust. 4 |
+| Rewers przy wypożyczeniu sprzętu, rozliczenie sprzętu przy odejściu i po kadencji | UMW, Automatyk, Solvro | wprowadzone: § 4 ust. 6–7, § 5 ust. 10 |
+| Ubezpieczenie NNW przy pracy ze sprzętem i wyjazdach | UMW, UWr § 39 | jeszcze nie wprowadzone |
+| Drugi termin walnego z kworum obecnych | szablon PWr, KBI | wprowadzone: § 8 ust. 6 |
+| Walne zdalne z głosowaniem przez konta uczelniane | KBI | wprowadzone: § 8 ust. 4 |
+| Skarbnik jako osobna funkcja; dwa podpisy przy decyzjach finansowych | KBI, SISK, M3 | wprowadzone: § 9 ust. 6, § 4 ust. 4 |
+| Członek zarządu od współpracy z partnerami (w tym z Machinekind) | Automatyk | wprowadzone: § 9 ust. 5 (Wiceprezes) |
+| Opiekun organizacyjny lub drugi opiekun obok naukowego | UPWr, UMW | wprowadzone: § 12 ust. 3, [#2](https://github.com/machinekind/machinekind-students/issues/2) |
+| Siedziba lub miejsce pracy poza uczelnią zgłoszone przez partnera | UMW § 3 | jeszcze nie wprowadzone (§ 1 ust. 3), [#5](https://github.com/machinekind/machinekind-students/issues/5) |
+| Plan i podsumowanie kadencji; sprawozdanie jako dorobek (co działa), nie tylko finanse | Solvro, AWF | wprowadzone: § 9 ust. 12, § 14 ust. 1 |
+| Rozdzielenie mienia przy rozwiązaniu: każdy sprzęt wraca do właściciela (W01-TEK jest własnością PWr) | KBI, Automatyk | wprowadzone: § 16 ust. 5 |
 
 Czego nie przejmować:
 
