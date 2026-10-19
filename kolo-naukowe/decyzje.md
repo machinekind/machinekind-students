@@ -144,3 +144,21 @@ Status wpisu: przyjęty.
 - **Uwaga:** numery paragrafów w starszych wpisach tego dziennika
   odnoszą się do wersji sprzed uproszczenia.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Regulamin zrównany z szablonem PWr
+
+Status wpisu: przyjęty.
+
+- **Co:** regulamin ma układ szablonu regulaminu uczelnianej organizacji
+  studenckiej PWr: § 1 Postanowienia ogólne, § 2 Cele i zadania, § 3
+  (realizacja celów), § 4 Źródła finansowania, § 5 Członkostwo,
+  § 6 Struktura organizacyjna, § 7 (Zarząd), § 8 (Walne Zgromadzenie
+  Członków), § 9 Postanowienia końcowe, z brzmieniem szablonu
+  i wypełnionymi miejscami do uzupełnienia. Treść decyzji bez zmian;
+  dodatki względem szablonu: koło międzywydziałowe, dwóch opiekunów,
+  sekcje, startupy poza kołem, licencja, BHP i sprzęt.
+- **Zmiany wartości względem wersji uproszczonej:** drugi termin Walnego
+  Zgromadzenia 1–7 dni (jak w szablonie, było 1–14); Walne zwoływane co
+  najmniej 2 razy w roku akademickim; członkowie Zarządu składają
+  sprawozdanie na koniec kadencji; nadzwyczajne Walne w 30 dni.
+- **Kto:** Grzegorz Piotrowski.
