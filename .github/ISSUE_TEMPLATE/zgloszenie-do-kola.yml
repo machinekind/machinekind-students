@@ -1,0 +1,46 @@
+name: Zgłoszenie do koła
+description: Chcesz dołączyć do koła naukowego przy Machinekind.
+title: "Zgłoszenie: "
+labels: ["zgloszenie"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **To zgłoszenie jest publiczne.** Nie podawaj adresu e-mail, telefonu, numeru albumu ani innych danych kontaktowych. Skontaktujemy się z Tobą w komentarzu pod tym issue. Dane wymagane przez uczelnię zbierzemy później, poza GitHubem.
+
+        Koło jest w trakcie zakładania; zasady rekrutacji są jeszcze do ustalenia.
+  - type: dropdown
+    id: domena
+    attributes:
+      label: Domena, która Cię interesuje
+      multiple: true
+      options:
+        - Locomotion AI
+        - World Models & VLM
+        - Robotics Engineering & Manufacturing
+        - Design & Program
+    validations:
+      required: true
+  - type: textarea
+    id: motywacja
+    attributes:
+      label: Dlaczego chcesz dołączyć
+    validations:
+      required: true
+  - type: textarea
+    id: dorobek
+    attributes:
+      label: Co już zbudowałaś / zbudowałeś
+      description: Linki do repozytoriów, projektów, prac. Coś, co się uruchamia, mówi więcej niż opis.
+  - type: input
+    id: studia
+    attributes:
+      label: Uczelnia i kierunek (opcjonalnie)
+      description: Wystarczy ogólnie, np. „PWr, automatyka i robotyka”.
+  - type: checkboxes
+    id: zgody
+    attributes:
+      label: Potwierdzenie
+      options:
+        - label: Rozumiem, że zgłoszenie jest publiczne i nie zawiera moich danych kontaktowych.
+          required: true

@@ -1,0 +1,38 @@
+name: Pytanie do ustalenia
+description: Decyzja, którą trzeba podjąć, zanim koło ruszy dalej.
+title: "Do ustalenia: "
+labels: ["do-ustalenia"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Repozytorium jest publiczne. Nie wpisuj adresów e-mail, telefonów ani innych danych osobowych.
+  - type: textarea
+    id: pytanie
+    attributes:
+      label: Pytanie
+      description: Jedno pytanie, na które da się odpowiedzieć decyzją.
+    validations:
+      required: true
+  - type: textarea
+    id: dlaczego
+    attributes:
+      label: Dlaczego ważne
+      description: Co blokuje brak odpowiedzi i od czego zależy.
+    validations:
+      required: true
+  - type: textarea
+    id: kto
+    attributes:
+      label: Kto decyduje
+      description: Rola, nie dane kontaktowe (np. założyciele, opiekun, uczelnia, kolektyw).
+  - type: textarea
+    id: opcje
+    attributes:
+      label: Znane opcje i źródła
+      description: Możliwe odpowiedzi, linki do regulaminów i dokumentów. Rzeczy bez źródła oznacz jako niepotwierdzone.
+  - type: input
+    id: dokument
+    attributes:
+      label: Dokument w repo
+      description: Gdzie trzeba będzie wpisać decyzję, np. kolo-naukowe/statut.md § 4.
