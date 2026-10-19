@@ -12,6 +12,9 @@ Oznaczenia w tym dokumencie:
   uczelni, który prowadzi sprawy kół;
 - **wniosek**: nasza interpretacja kilku źródeł, nie zapis wprost.
 
+Opracowania aktów pozostałych wrocławskich uczelni i regulaminów
+istniejących kół są w [docs/regulaminy/](regulaminy/README.md).
+
 Wybór uczelni dla koła Machinekind nie jest podjęty (patrz
 [kolo-naukowe/README.md](../kolo-naukowe/README.md)), stąd opis obu.
 
@@ -124,7 +127,8 @@ i Doktoranckiej.
 
 Nie znaleźliśmy zarządzenia Rektora PWr, które regulowałoby rejestrację kół
 tak szczegółowo jak zarządzenie UWr (**niepotwierdzone**, czy takie istnieje
-i pod jakim numerem). Opis poniżej opiera się na stronie i informatorze
+i pod jakim numerem; szukaliśmy dwukrotnie, także w BIP). Statut PWr
+przewiduje tylko spis organizacji (§ 47). Opis poniżej opiera się na stronie i informatorze
 Działu Wsparcia Aktywności Studenckiej oraz na szablonach uczelni.
 
 - [DWAS PWr: założenie uczelnianej organizacji studenckiej](https://dwas.pwr.edu.pl/organizacje-studenckie/zalozenie-uczelnianej-organizacji-studenckiej)
@@ -145,10 +149,14 @@ i agendy kultury.
   Wsparcia Aktywności Studenckiej (bud. A-1, pok. 142) (potwierdzone).
 - Dla koła naukowego potrzebna jest **pisemna zgoda dziekana lub prodziekana
   ds. studenckich** wydziału, przy którym koło ma działać (potwierdzone).
-- Rejestr kół prowadzi Rektor PWr: tak piszą regulaminy istniejących kół,
-  np. [regulamin koła NBSI](https://www.ii.pwr.edu.pl/pl/studenci/kola-naukowe-i-32/nibsi/regulamin-2/).
-  Która komórka formalnie dokonuje wpisu i w jakiej formie:
-  **niepotwierdzone**.
+- Statut PWr z 10 lipca 2025 r., § 47 ust. 3: organ organizacji
+  „niezwłocznie informuje Rektora” o jej powstaniu, a Rektor „prowadzi spis
+  uczelnianych organizacji studenckich” (potwierdzone,
+  [opracowanie](regulaminy/uczelnia-pwr-statut.md)). Statut mówi o spisie,
+  nie o rejestracji z zatwierdzeniem; regulaminy istniejących kół piszą
+  o „rejestrze Kół prowadzonym przez Rektora”, np.
+  [regulamin koła NBSI](https://www.ii.pwr.edu.pl/pl/studenci/kola-naukowe-i-32/nibsi/regulamin-2/).
+  Która komórka formalnie dokonuje wpisu: **niepotwierdzone**.
 - Szablon regulaminu przewiduje, że koło działa w ramach wydziału, a zarząd
   zawiadamia Rektora o zmianach za pośrednictwem właściwej jednostki
   administracyjnej (potwierdzone, szablon).
