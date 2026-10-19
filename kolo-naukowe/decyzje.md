@@ -20,9 +20,8 @@ Status wpisu: w uzgodnieniu.
 - **Co:** Zarząd koła liczy trzy osoby: Prezes, Wiceprezes, Skarbnik
   (regulamin, § 9). Proponowany skład pierwszego Zarządu:
   - Prezes: Grzegorz Piotrowski;
-  - Wiceprezes: osoba spoza składu publikowanego na stronie kolektywu;
-    nazwisko zostanie dopisane po jej zgodzie na publikację w tym
-    repozytorium;
+  - Wiceprezes: Jakub Maryniak (zgoda na publikację nazwiska w tym
+    repozytorium potwierdzona 19.10.2026);
   - Skarbnik: Jakub Chmielewski.
 - **Dlaczego:** regulamin musi określać władze, a uczelnia wymaga
   protokołu z wyboru władz (PWr) albo zgłoszenia składu Zarządu (UWr).
@@ -112,4 +111,16 @@ w uzgodnieniu, adres tymczasowy).
 - **Warunki:** zgoda Katedry Sztucznej Inteligencji na wskazanie pokoju
   jako siedziby; zmiana adresu to zmiana regulaminu, zgłaszana Rektorowi
   w 14 dni (§ 14 ust. 2).
+- **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Wiceprezes i tytuł opiekuna
+
+Status wpisu: przyjęty.
+
+- **Co:** proponowanym Wiceprezesem pierwszego Zarządu jest Jakub
+  Maryniak (zgoda na publikację nazwiska potwierdzona). Tytuł opiekuna
+  w dokumentach do podpisu: dr hab. inż. Tomasz Kajdanowicz, prof.
+  uczelni, kierownik Katedry Sztucznej Inteligencji (według strony
+  Wydziału Informatyki i Telekomunikacji; strona machinekind.ai podaje
+  „dr hab. inż.”).
 - **Kto:** Grzegorz Piotrowski.

@@ -25,6 +25,9 @@ Pliki 5 i 6 to oryginalne szablony PWr z wpisaną nazwą koła, wydziałem
 i danymi opiekunów, bez zmian w treści. Daty i podpisy wpisuje się ręcznie.
 Szablony z DWAS i ze strony WIT są identyczne (sprawdzone 19.10.2026).
 
+Pytania do Sekcji Wsparcia Organizacji Studenckich przed złożeniem:
+[pytania-do-swos.md](pytania-do-swos.md).
+
 ## Kolejność
 
 1. Rozmowa z opiekunami: przekazać regulamin i zgody do podpisu.

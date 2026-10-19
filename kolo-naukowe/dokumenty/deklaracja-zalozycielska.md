@@ -35,7 +35,8 @@ Wydziale Informatyki i Telekomunikacji (wydział wiodący, siedziba w Katedrze S
 bud. D-21, pok. 336) oraz przy Wydziale Mechanicznym
 (Laboratorium Mechatroniki i Robotyki) Politechniki Wrocławskiej.
 
-**Opiekunowie naukowi.** dr hab. inż. Tomasz Kajdanowicz oraz dr hab. inż.
+**Opiekunowie naukowi.** dr hab. inż. Tomasz Kajdanowicz, prof. uczelni,
+oraz dr hab. inż.
 Jarosław Szrek, prof. uczelni.
 
 Podpisując deklarację, akceptujemy projekt regulaminu Koła i wyrażamy

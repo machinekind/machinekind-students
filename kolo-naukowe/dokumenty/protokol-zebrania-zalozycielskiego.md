@@ -52,7 +52,7 @@ zgodnie z § 9 ust. 9 regulaminu. Komisja skrutacyjna: ……………………�
 | Funkcja | Kandydaci | Oddane głosy | Głosy na kandydata | Wybrany |
 | --- | --- | --- | --- | --- |
 | Prezes | Grzegorz Piotrowski; …………… | …… | …… | …………… |
-| Wiceprezes | ……………………… | …… | …… | …………… |
+| Wiceprezes | Jakub Maryniak; …………… | …… | …… | …………… |
 | Skarbnik | Jakub Chmielewski; …………… | …… | …… | …………… |
 
 Kadencja pierwszego Zarządu trwa do końca roku akademickiego, w którym
@@ -60,7 +60,7 @@ Koło zostanie zarejestrowane (§ 9 ust. 8 regulaminu).
 
 **Uchwała nr 4/…** w sprawie wniosku o powołanie opiekunów naukowych
 Zebranie wnosi o powołanie na opiekunów naukowych Koła:
-dr. hab. inż. Tomasza Kajdanowicza oraz dr. hab. inż. Jarosława Szreka,
+dr. hab. inż. Tomasza Kajdanowicza, prof. uczelni, oraz dr. hab. inż. Jarosława Szreka,
 prof. uczelni.
 Głosowanie jawne: za ……, przeciw ……, wstrzymało się ……
 

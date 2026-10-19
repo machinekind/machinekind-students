@@ -534,4 +534,3 @@ Poza tekstem regulaminu, ale potrzebne do rejestracji:
 | Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
 | Umowa uczelnia–Machinekind (§ 13 ust. 2) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
 | Zasady uczelni dla współpracy z funduszami i venture builderami oraz komercjalizacji wyników członków (§ 13 ust. 7–8) | do sprawdzenia w Sekcji Wsparcia Organizacji Studenckich i w przepisach PWr o komercjalizacji |
-| Wiceprezes w protokole z wyboru władz | nazwisko poza repo do czasu zgody |
