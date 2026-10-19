@@ -67,7 +67,7 @@ pokazać.
 | Walne uchyla uchwały Zarządu | tak | brak | brak | **§ 8 ust. 8 pkt 8** |
 | Sekcje | powoływane przez Zarząd lub walne | KBI: sekcje z minimalnym składem | 4 sekcje = domeny | bez zmian; prowadzący sekcję uczestniczy w przeglądzie |
 | Własność intelektualna | oświadczenie w 30 dni | brak | oświadczenie w 30 dni | bez zmian; dopisana poufność wobec partnerów |
-| Przedsięwzięcia członków | brak | M3, SISK: działalność odpłatna koła | brak | **§ 13 ust. 5–6: wsparcie, ale przedsięwzięcie poza kołem** |
+| Przedsięwzięcia członków | brak | M3, SISK: działalność odpłatna koła | brak | **§ 13 ust. 5–9: wsparcie, ale przedsięwzięcie poza kołem** |
 | BHP i sprzęt | dbanie o zasoby | UMW, Automatyk | BHP, instruktaż, rewers | bez zmian |
 
 ## Decyzje projektowe
@@ -78,7 +78,7 @@ pokazać.
   (krótkie iteracje, pokazy, realny użytkownik) i przygotowanie członków
   do zakładania przedsięwzięć. Same przedsięwzięcia działają poza kołem,
   a korzystanie z wyników koła wymaga zgód i zasad własności
-  intelektualnej (§ 13 ust. 5–6). Nie przejęliśmy zapisów M3 i SISK
+  intelektualnej (§ 13 ust. 5–9). Nie przejęliśmy zapisów M3 i SISK
   o działalności odpłatnej.
 - **Wykluczenie jako ostateczność.** Procedura z § 6 daje Zarządowi
   pięć możliwości, od umorzenia do wykluczenia, i każe wybrać najłagodniejszą

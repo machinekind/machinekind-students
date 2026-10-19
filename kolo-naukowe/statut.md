@@ -36,7 +36,7 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    przepisy uczelni.
 7. Koło działa na czas nieokreślony.
 8. Koło nie ma osobowości prawnej i nie prowadzi działalności zarobkowej.
-   Sposób pracy opisany w § 2 ust. 2 nie oznacza prowadzenia działalności
+   Sposób pracy i cele opisane w § 2 nie oznaczają prowadzenia działalności
    gospodarczej przez Koło.
 9. Rektor uchyla akt organu Koła niezgodny z przepisami prawa powszechnie
    obowiązującego, statutem uczelni, regulaminem studiów lub niniejszym
@@ -47,9 +47,10 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
 ## § 2. Misja i cele
 
 1. **Misja.** Koło rozwija physical AI, czyli inteligencję, która działa
-   w fizycznym świecie, na prawdziwym sprzęcie i wśród ludzi, oraz
-   prowadzi badania z tego zakresu. Misja jest spójna z misją kolektywu
-   Machinekind: „Uczymy maszyny poruszać się w świecie ludzi.”
+   w fizycznym świecie, na prawdziwym sprzęcie i wśród ludzi, prowadzi
+   badania z tego zakresu i zamienia ich wyniki w przedsięwzięcia
+   technologiczne. Misja jest spójna z misją kolektywu Machinekind:
+   „Uczymy maszyny poruszać się w świecie ludzi.”
 2. **Sposób pracy.** Koło pracuje jak startup:
    1. buduje, a nie tylko opisuje: każde zadanie kończy się czymś, co się
       uruchamia, z jednym sprawdzalnym kryterium odbioru;
@@ -58,23 +59,31 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    3. wybiera problemy, które mają realnego użytkownika lub zastosowanie,
       i sprawdza wyniki na sprzęcie, nie tylko w symulacji;
    4. jeden zespół prowadzi całą drogę: od modelu, przez sprzęt, po
-      uruchomienie;
-   5. przygotowuje członków do zakładania przedsięwzięć technologicznych
-      i przekuwania wyników w produkty, na zasadach z § 13 ust. 5–6.
+      uruchomienie.
 3. **Cele.** Celami Koła są:
-   1. prowadzenie badań i prac konstrukcyjnych z zakresu physical AI:
-      lokomocji uczonej w symulacji i przenoszonej na maszynę (sim-to-real),
-      modeli świata i modeli wizyjno-językowych, robotów kroczących,
-      w tym czworonożnych i humanoidalnych,
-      i manipulacji, konstrukcji i napędów maszyn;
-   2. publikowanie wyników badań: artykuły, prace dyplomowe, wystąpienia
+   1. **rozwój zdolności członków w kierunku physical AI**: nauka
+      i praktyka w zakresie lokomocji uczonej w symulacji i przenoszonej
+      na maszynę (sim-to-real), modeli świata i modeli
+      wizyjno-językowych, robotów kroczących, w tym czworonożnych
+      i humanoidalnych, manipulacji oraz konstrukcji i napędów maszyn,
+      przez pracę na działającym sprzęcie i z realnymi danymi;
+   2. **rozwój przedsiębiorczości technologicznej**, w szczególności:
+      1. tworzenie zespołów startupowych z członków Koła, łączących
+         kompetencje z różnych sekcji i wydziałów;
+      2. wspieranie startupów zakładanych przez członków: mentoring,
+         walidacja pomysłów z użytkownikami, przygotowanie do pokazów
+         i rozmów z inwestorami;
+      3. łączenie zespołów i startupów członków z funduszami
+         inwestycyjnymi, venture builderami, aniołami biznesu
+         i partnerami przemysłowymi, w szczególności przez spotkania,
+         pokazy i dni demonstracyjne;
+   3. **prowadzenie badań naukowych** z zakresu physical AI
+      i publikowanie ich wyników: artykuły, prace dyplomowe, wystąpienia
       konferencyjne, otwarte repozytoria i zbiory danych;
-   3. rozwijanie umiejętności członków przez pracę na działającym sprzęcie
-      i z realnymi danymi;
    4. współpraca z kolektywem Machinekind, jednostkami uczelni, przemysłem
       i innymi partnerami;
-   5. wspieranie członków w drodze od projektu w Kole do pracy dyplomowej,
-      publikacji lub własnego przedsięwzięcia.
+   5. wspieranie członków w drodze od projektu w Kole do pracy
+      dyplomowej, publikacji lub własnego przedsięwzięcia.
 
 ## § 3. Sposoby realizacji celów
 
@@ -83,9 +92,16 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    2. spotkania całego Koła z pokazem działających wyników, co najmniej
       raz w miesiącu;
    3. publiczny pokaz wyników na koniec każdego semestru, otwarty dla
-      partnerów i potencjalnych użytkowników;
-   4. udział w konferencjach, zawodach, hackathonach i seminariach;
-   5. publikowanie wyników na zasadach z § 13.
+      partnerów, inwestorów i potencjalnych użytkowników;
+   4. co najmniej raz w roku akademickim dzień demonstracyjny, na którym
+      zespoły startupowe członków przedstawiają projekty funduszom
+      inwestycyjnym, venture builderom i partnerom przemysłowym;
+   5. warsztaty i mentoring z zakresu zakładania i prowadzenia startupów,
+      także we współpracy z jednostkami uczelni wspierającymi
+      przedsiębiorczość;
+   6. udział w konferencjach, zawodach, hackathonach, akceleratorach
+      i seminariach;
+   7. publikowanie wyników na zasadach z § 13.
 2. Program semestralny uchwala Walne Zgromadzenie na wniosek Zarządu, po
    zaopiniowaniu przez opiekuna naukowego.
 3. Po zakończeniu zadania prowadzący sekcję w ciągu miesiąca przedstawia
@@ -386,12 +402,23 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
 4. Pozyskiwanie sponsorów, patronatów i darowizn odbywa się za zgodą
    i według procedur uczelni.
 5. Koło wspiera członków, którzy chcą przekształcić wyniki prac we własne
-   przedsięwzięcie technologiczne: przez mentoring, pokazy dla partnerów
-   i kontakt z jednostkami uczelni wspierającymi przedsiębiorczość.
-6. Przedsięwzięcie członków prowadzone jest poza Kołem. Korzystanie z
-   wyników powstałych w Kole, ze sprzętu uczelni lub Machinekind wymaga
-   zgody uprawnionych i odbywa się na zasadach z ust. 3 oraz przepisów
-   uczelni o komercjalizacji wyników.
+   przedsięwzięcie technologiczne, na zasadach z § 2 ust. 3 pkt 2 i § 3
+   ust. 1 pkt 4–5.
+6. Startupy członków są prowadzone poza Kołem. Koło nie obejmuje udziałów
+   w spółkach, nie pośredniczy w inwestycjach ani w przepływie środków
+   i nie pobiera opłat ani prowizji za kontakty z inwestorami. Umowy
+   z funduszami, venture builderami i innymi inwestorami zawierają
+   wyłącznie członkowie lub ich spółki we własnym imieniu.
+7. Korzystanie w startupie z wyników powstałych w Kole, ze sprzętu uczelni
+   lub Machinekind wymaga zgody uprawnionych i odbywa się na zasadach
+   z ust. 3 oraz przepisów uczelni o komercjalizacji wyników.
+8. Współpraca Koła z funduszami, venture builderami i innymi partnerami
+   zewnętrznymi, w tym patronaty nad wydarzeniami Koła, odbywa się za
+   zgodą i według procedur uczelni.
+9. Członek Zarządu, prowadzący sekcję lub mentor, który ma udziały
+   w startupie albo jest związany z funduszem lub venture builderem,
+   ujawnia to Zarządowi i nie bierze udziału w rozstrzyganiu spraw
+   dotyczących tego podmiotu.
 
 ## § 14. Obowiązki wobec uczelni
 
@@ -456,4 +483,5 @@ Poza tekstem regulaminu, ale potrzebne do rejestracji:
 | Numer budynku i pokoju siedziby (§ 1 ust. 3) | do uzupełnienia, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
 | Umowa uczelnia–Machinekind (§ 13 ust. 2) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
+| Zasady uczelni dla współpracy z funduszami i venture builderami oraz komercjalizacji wyników członków (§ 13 ust. 7–8) | do sprawdzenia w Sekcji Wsparcia Organizacji Studenckich i w przepisach PWr o komercjalizacji |
 | Wiceprezes w protokole z wyboru władz | nazwisko poza repo do czasu zgody |

@@ -19,12 +19,12 @@ naukowego pod nazwą **Koło Naukowe Machinekind** (skrót: KN Machinekind),
 w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie
 wyższym i nauce.
 
-**Cel działania.** Koło rozwija physical AI, czyli inteligencję działającą
-w fizycznym świecie, na prawdziwym sprzęcie, i prowadzi badania z tego
-zakresu: lokomocję uczoną w symulacji i przenoszoną na maszynę, modele
-świata i modele wizyjno-językowe, roboty kroczące, w tym czworonożne
-i humanoidalne, konstrukcję i napędy maszyn. Koło pracuje w krótkich iteracjach zakończonych działającym
-wynikiem i współpracuje z kolektywem Machinekind.
+**Cele działania.** Rozwój zdolności członków w kierunku physical AI, czyli
+inteligencji działającej w fizycznym świecie, na prawdziwym sprzęcie;
+rozwój przedsiębiorczości technologicznej przez tworzenie zespołów
+startupowych, wspieranie startupów członków i łączenie ich z funduszami
+inwestycyjnymi i venture builderami; prowadzenie badań naukowych z zakresu
+physical AI. Koło współpracuje z kolektywem Machinekind.
 
 **Jednostka.** Koło będzie międzywydziałowym kołem naukowym działającym przy
 Wydziale Informatyki i Telekomunikacji (wydział wiodący, siedziba
