@@ -12,3 +12,22 @@ odwołane zostają w dzienniku z adnotacją, nie są kasowane.
 - **Dlaczego:** studenci i agenci potrzebują jednego źródła prawdy o tym, czym
   jest Machinekind, oddzielonego od repozytoriów projektów sprzętowych.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Proponowany skład pierwszego Zarządu
+
+Status wpisu: w uzgodnieniu.
+
+- **Co:** Zarząd koła liczy trzy osoby: Prezes, Wiceprezes, Skarbnik
+  (regulamin, § 8). Proponowany skład pierwszego Zarządu:
+  - Prezes: Grzegorz Piotrowski;
+  - Wiceprezes: osoba spoza składu publikowanego na stronie kolektywu;
+    nazwisko zostanie dopisane po jej zgodzie na publikację w tym
+    repozytorium;
+  - Skarbnik: Jakub Chmielewski.
+- **Dlaczego:** regulamin musi określać władze, a uczelnia wymaga
+  protokołu z wyboru władz (PWr) albo zgłoszenia składu Zarządu (UWr).
+- **Warunki:** skład wybiera formalnie zebranie założycielskie
+  (regulamin, § 8 ust. 8–9). Członkiem Zarządu może być tylko student lub
+  doktorant uczelni, przy której koło działa; status każdej z osób: do
+  potwierdzenia.
+- **Kto:** Grzegorz Piotrowski.
