@@ -47,6 +47,10 @@ Propozycje, nie decyzje. Stan wprowadzenia do projektu regulaminu; porównanie
 z Solvro, KoNaR i PWr Racing Team: [review-regulaminu.md](review-regulaminu.md).
 Review formalny pod wymagania PWr: [review-formalny-pwr.md](review-formalny-pwr.md).
 
+Numery paragrafów w kolumnie „Stan” dotyczą wersji sprzed uproszczenia
+z 19.10.2026; część propozycji przy uproszczeniu wypadła (patrz
+[decyzje.md](../../kolo-naukowe/decyzje.md)).
+
 | Propozycja | Skąd | Stan w regulaminie / issue |
 | --- | --- | --- |
 | Sekcje odpowiadające czterem domenom, z prowadzącym sekcji odpowiedzialnym za cele semestru | Solvro, KBI | wprowadzone: § 11 |

@@ -5,6 +5,10 @@ Status: szkic. Review z 19 października 2026: projekt
 z regulaminami kół PWr i z wymaganiami uczelni. Zmiany wynikające z review
 są już wprowadzone do projektu.
 
+> Uwaga: dotyczy wersji regulaminu sprzed uproszczenia z 19.10.2026
+> (17 paragrafów); numery paragrafów są nieaktualne, obecna wersja ma § 1–10.
+
+
 ## Z czym porównywaliśmy
 
 | Wzorzec | Dostępność | Uwagi |

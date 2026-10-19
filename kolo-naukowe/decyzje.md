@@ -124,3 +124,23 @@ Status wpisu: przyjęty.
   Wydziału Informatyki i Telekomunikacji; strona machinekind.ai podaje
   „dr hab. inż.”).
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Uproszczenie regulaminu
+
+Status wpisu: przyjęty.
+
+- **Co:** regulamin skrócony z 17 do 10 paragrafów, w układzie bliskim
+  szablonowi PWr. Zostały: elementy wymagane przez PWr, misja i cele
+  (physical AI, badania, przedsiębiorczość), koło międzywydziałowe
+  i siedziba, pięć sekcji i zespoły projektowe, trzyosobowy Zarząd, dwóch
+  opiekunów, dwa podpisy pod dokumentami finansowymi, startupy poza kołem,
+  wykluczenie po upomnieniu z prawem do wyjaśnień i odwołaniem.
+  Wypadły: podział na członków nowych i aktywnych, rozbudowana procedura
+  przeglądu aktywności i postępowania członkowskiego, kontrola Zarządu,
+  plan kadencji, limit kadencji, oświadczenie IP w 30 dni jako obowiązek
+  w regulaminie. W razie potrzeby wracają jako regulamin wewnętrzny
+  uchwalany przez Walne Zgromadzenie.
+- **Dlaczego:** za dużo formalizmu; szablon PWr ma 9 paragrafów.
+- **Uwaga:** numery paragrafów w starszych wpisach tego dziennika
+  odnoszą się do wersji sprzed uproszczenia.
+- **Kto:** Grzegorz Piotrowski.

@@ -4,7 +4,7 @@ Status: szkic.
 
 Zasada: każde zadanie kończy się czymś, co się uruchamia, i ma jedno kryterium
 odbioru, które da się sprawdzić w pięć minut. Po jednym zadaniu na sekcję,
-mentor z kolektywu per zadanie. Sekcje: regulamin, § 11.
+mentor z kolektywu per zadanie. Sekcje: regulamin, § 3 ust. 2.
 
 ## Semestr 1 (szkic)
 

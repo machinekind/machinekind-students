@@ -6,6 +6,10 @@ w Sekcji Wsparcia Organizacji Studenckich PWr. Poprawki z tego review są już
 wprowadzone; wersja do druku:
 [regulamin.docx](../../kolo-naukowe/dokumenty/do-druku/regulamin.docx).
 
+> Uwaga: dotyczy wersji regulaminu sprzed uproszczenia z 19.10.2026
+> (17 paragrafów); numery paragrafów są nieaktualne, obecna wersja ma § 1–10.
+
+
 ## 1. Wymagane elementy regulaminu (informator DWAS)
 
 | Element wymagany przez PWr | Gdzie w regulaminie | Ocena |

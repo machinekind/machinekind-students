@@ -47,7 +47,7 @@ Głosowanie jawne: za ……, przeciw ……, wstrzymało się ……
 
 **Uchwała nr 3/…** w sprawie wyboru Zarządu
 Wybory przeprowadzono w głosowaniu tajnym, osobno na każdą funkcję,
-zgodnie z § 9 ust. 9 regulaminu. Komisja skrutacyjna: ……………………………
+zgodnie z § 7 ust. 1 regulaminu. Komisja skrutacyjna: ……………………………
 
 | Funkcja | Kandydaci | Oddane głosy | Głosy na kandydata | Wybrany |
 | --- | --- | --- | --- | --- |
@@ -55,8 +55,8 @@ zgodnie z § 9 ust. 9 regulaminu. Komisja skrutacyjna: ……………………�
 | Wiceprezes | Jakub Maryniak; …………… | …… | …… | …………… |
 | Skarbnik | Jakub Chmielewski; …………… | …… | …… | …………… |
 
-Kadencja pierwszego Zarządu trwa do końca roku akademickiego, w którym
-Koło zostanie zarejestrowane (§ 9 ust. 8 regulaminu).
+Kadencja pierwszego Zarządu obejmuje bieżący rok akademicki (§ 7 ust. 1
+i § 10 ust. 4 regulaminu).
 
 **Uchwała nr 4/…** w sprawie wniosku o powołanie opiekunów naukowych
 Zebranie wnosi o powołanie na opiekunów naukowych Koła:
