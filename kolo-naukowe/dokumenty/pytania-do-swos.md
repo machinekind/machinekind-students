@@ -16,3 +16,4 @@ rozstrzygają, w [decyzje.md](../decyzje.md).
 | 7 | Czy nazwa „Koło Naukowe Machinekind”, zawierająca nazwę partnera zewnętrznego, jest dopuszczalna, i czy współpraca z kolektywem wymaga umowy z uczelnią już na etapie rejestracji? | regulamin § 1 ust. 1, § 3 ust. 1 pkt 1.5 | |
 | 8 | Czy Sekcja może wstępnie sprawdzić projekt regulaminu przed zebraniem założycielskim? | uniknięcie poprawek po uchwaleniu | |
 | 9 | Jak długo trwa wpis do Spisu Uczelnianych Organizacji Studenckich po złożeniu kompletu dokumentów? | termin 1 listopada dla konkursu o tytuł Koła Strategicznego | |
+| 10 | Czy regulamin bez Walnego Zgromadzenia jest dopuszczalny: władzą jest trzyosobowy Zarząd, pierwszy Zarząd wybierają założyciele, kolejny powołuje ustępujący Zarząd za zgodą opiekunów, a odwołania od wykluczenia rozstrzygają opiekunowie? | szablon PWr przewiduje Walne Zgromadzenie; ustawa (art. 111) go nie wymaga | |

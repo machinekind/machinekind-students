@@ -47,7 +47,7 @@ Głosowanie jawne: za ……, przeciw ……, wstrzymało się ……
 
 **Uchwała nr 3/…** w sprawie wyboru Zarządu
 Wybory przeprowadzono w głosowaniu tajnym, osobno na każdą funkcję,
-zgodnie z § 7 ust. 2 pkt 2.1 regulaminu. Komisja skrutacyjna: ……………………………
+zgodnie z § 7 ust. 2 pkt 2.2 regulaminu. Komisja skrutacyjna: ……………………………
 
 | Funkcja | Kandydaci | Oddane głosy | Głosy na kandydata | Wybrany |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ zgodnie z § 7 ust. 2 pkt 2.1 regulaminu. Komisja skrutacyjna: ……………�
 | Skarbnik | Jakub Chmielewski; …………… | …… | …… | …………… |
 
 Kadencja pierwszego Zarządu obejmuje bieżący rok akademicki (§ 7 ust. 2
-pkt 2.1 i § 9 ust. 6 regulaminu).
+pkt 2.1–2.2 regulaminu).
 
 **Uchwała nr 4/…** w sprawie wniosku o powołanie opiekunów naukowych
 Zebranie wnosi o powołanie na opiekunów naukowych Koła:

@@ -1,15 +1,16 @@
 # Regulamin Koła Naukowego Machinekind
 
 Status: w uzgodnieniu. Projekt regulaminu do złożenia na Politechnice
-Wrocławskiej, zrównany z szablonem regulaminu uczelnianej organizacji
-studenckiej PWr ([opracowanie](../docs/regulaminy/uczelnia-pwr.md)):
-ten sam układ § 1–9 i brzmienie szablonu, z wypełnionymi miejscami do
-uzupełnienia. Decyzje założycielskie: [decyzje.md](decyzje.md); dokumenty
-do złożenia: [dokumenty/](dokumenty/README.md). Nazwa pliku `statut.md`
-zostaje dla ciągłości odnośników.
+Wrocławskiej, w układzie i brzmieniu szablonu regulaminu uczelnianej
+organizacji studenckiej PWr ([opracowanie](../docs/regulaminy/uczelnia-pwr.md)),
+bez Walnego Zgromadzenia, stąd § 1–8. Decyzje założycielskie:
+[decyzje.md](decyzje.md); dokumenty do złożenia:
+[dokumenty/](dokumenty/README.md). Nazwa pliku `statut.md` zostaje dla
+ciągłości odnośników.
 
-Regulamin uchwala zebranie założycielskie; przed złożeniem podpisują go
-opiekunowie naukowi.
+Regulamin uchwalają członkowie-założyciele na zebraniu założycielskim;
+przed złożeniem podpisują go opiekunowie naukowi. Koło nie ma Walnego
+Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
 
 ---
 
@@ -22,8 +23,8 @@ opiekunowie naukowi.
 2. Koło może używać skróconej nazwy w brzmieniu KN Machinekind.
 3. Siedzibą jest Politechnika Wrocławska, bud. D-21, pok. 336 (Katedra
    Sztucznej Inteligencji).
-4. Koło opiera swoją działalność na dobrowolnej pracy ogółu członków wraz
-   z jego władzami.
+4. Koło opiera swoją działalność na dobrowolnej pracy członków i jego
+   Zarządu.
 5. Koło działa w ramach Wydziału Informatyki i Telekomunikacji Politechniki
    Wrocławskiej jako koło międzywydziałowe, wspólnie z Wydziałem
    Mechanicznym, w którego Laboratorium Mechatroniki i Robotyki prowadzi
@@ -105,20 +106,17 @@ opiekunowie naukowi.
 3. O przyjęciu w poczet członka Koła decyduje Zarząd w drodze uchwały
    podjętej zwykłą większością głosów, po złożeniu deklaracji
    członkowskiej i wykonaniu zadania wstępnego w wybranej sekcji.
-   Członków honorowych powołuje Walne Zgromadzenie Członków.
-4. Członkowi Koła przysługuje:
-   1. prawo udziału w Walnych Zgromadzeniach Członków,
-   2. czynne i bierne prawo wyborcze, o ile jest studentem lub doktorantem
-      Politechniki Wrocławskiej,
-   3. wnioskowania w każdej sprawie dotyczącej Koła,
-   4. zgłaszania opinii, wniosków, postulatów dotyczących pracy Koła oraz
+   Członków honorowych powołuje Zarząd.
+4. Członkowi Koła przysługuje prawo do:
+   1. udziału w pracach i spotkaniach Koła,
+   2. wnioskowania w każdej sprawie dotyczącej Koła,
+   3. zgłaszania opinii, wniosków, postulatów dotyczących pracy Koła oraz
       Zarządu,
-   5. korzystania ze sprzętu i zasobów Koła.
+   4. korzystania ze sprzętu i zasobów Koła.
 5. Członkowie Koła są zobowiązani do:
    1. aktywnego uczestnictwa w zebraniach i pracach Koła,
-   2. podporządkowania się postanowieniom niniejszego Regulaminu
-      uchwalonego przez Walne Zgromadzenie, a także postanowieniom
-      i uchwałom Zarządu Koła,
+   2. podporządkowania się postanowieniom niniejszego Regulaminu oraz
+      uchwałom Zarządu Koła,
    3. dbania o dobre imię Koła oraz Politechniki Wrocławskiej,
    4. rzetelnego spełniania przyjętych na siebie obowiązków,
    5. przestrzegania zasad BHP i zasad korzystania ze sprzętu.
@@ -132,142 +130,84 @@ opiekunowie naukowi.
    4. pisemnego wniosku członka.
 7. Przed podjęciem decyzji na podstawie ust. 6 pkt 6.1 i 6.3 członek może
    złożyć wyjaśnienia. Od decyzji podjętej przez Zarząd na tej podstawie
-   przysługuje odwołanie do Walnego Zgromadzenia Członków w terminie
-   14 dni od daty jej otrzymania.
+   przysługuje odwołanie do opiekunów naukowych w terminie 14 dni od daty
+   jej otrzymania; opiekunowie rozstrzygają je ostatecznie.
 
 ## § 6. Struktura organizacyjna
 
-1. Władze Koła stanowią:
-   1. Zarząd, w skład którego wchodzą:
-      1. Prezes,
-      2. Wiceprezes,
-      3. Skarbnik,
-   2. Walne Zgromadzenie Członków.
+1. Władzą Koła jest Zarząd, w skład którego wchodzą:
+   1. Prezes,
+   2. Wiceprezes,
+   3. Skarbnik.
 2. Koło posiada dwóch opiekunów naukowych, nauczycieli akademickich
    Politechniki Wrocławskiej: z Wydziału Informatyki i Telekomunikacji
    oraz z Wydziału Mechanicznego, powołanych za ich pisemną zgodą.
-   Opiekun nadzoruje zgodność działań Koła z Regulaminem, podpisuje plany
-   pracy, wnioski o dofinansowanie i sprawozdania.
+   Opiekun nadzoruje zgodność działań Koła z Regulaminem, podpisuje plany pracy, wnioski o dofinansowanie i sprawozdania oraz
+   wyraża zgodę na sprawy wskazane w Regulaminie.
 3. Prace Koła prowadzą sekcje: Lokomocji (Locomotion AI), Modeli Świata
    (World Models & VLM), Konstrukcji i Wytwarzania (Robotics Engineering
    & Manufacturing), Automatyki i Systemów Wbudowanych (Control & Embedded
-   Systems) oraz Wzornictwa i Prowadzenia Projektów (Design & Program).
+   Systems) oraz Wzornictwa i Prowadzenia Projektów (Design & Program). Sekcje tworzy
+   i likwiduje Zarząd.
 
 ## § 7.
 
-1. Zarząd jest organem wykonawczym i kieruje działalnością Koła,
-   a w szczególności:
+1. Zarząd kieruje działalnością Koła, a w szczególności:
    1. reprezentuje Koło na zewnątrz i działa w jego imieniu,
    2. podejmuje decyzje w sprawie zakresu i sposobów realizacji celów
       Koła,
-   3. zwołuje i organizuje Walne Zgromadzenia Członków,
-   4. opracowuje plany i programy działalności Koła oraz przedstawia je
-      Walnemu Zgromadzeniu Członków,
-   5. przyjmuje i wyklucza członków,
-   6. realizuje uchwały Walnego Zgromadzenia Członków,
-   7. prowadzi ewidencję członków Koła,
-   8. zarządza, dysponuje i odpowiada za fundusze, pomieszczenie
+   3. opracowuje plany i programy działalności Koła,
+   4. przyjmuje i wyklucza członków,
+   5. prowadzi ewidencję członków Koła,
+   6. zarządza, dysponuje i odpowiada za fundusze, pomieszczenie
       i wyposażenie Koła,
-   9. składa sprawozdania ze swej działalności Walnemu Zgromadzeniu
-      Członków oraz sprawozdanie roczne uczelni do 15 stycznia,
-   10. opracowuje preliminarz finansowy i programowy Koła,
-   11. powołuje zespoły projektowe do budowy konkretnych maszyn.
-2. Kadencja władz:
-   1. kadencja Zarządu trwa rok akademicki, a jego wybór odbywa się
-      w głosowaniu bezpośrednim, równym i tajnym zwykłą większością głosów
-      przy obecności przynajmniej połowy członków zwyczajnych,
-   2. w przypadku rezygnacji lub odwołania z funkcji przeprowadza się
-      wybory uzupełniające,
-   3. rezygnacja z pełnionej funkcji powinna zostać złożona pisemnie na
+   7. składa uczelni sprawozdanie roczne do 15 stycznia i informuje
+      członków o działalności Koła,
+   8. opracowuje preliminarz finansowy i programowy Koła,
+   9. tworzy sekcje i powołuje zespoły projektowe do budowy konkretnych
+      maszyn.
+2. Kadencja i skład Zarządu:
+   1. kadencja Zarządu trwa rok akademicki; członkiem Zarządu może być
+      członek zwyczajny Koła,
+   2. pierwszy Zarząd wybierają członkowie-założyciele na zebraniu
+      założycielskim,
+   3. Zarząd na kolejną kadencję powołuje ustępujący Zarząd, za zgodą
+      opiekunów naukowych; ta sama osoba może pełnić funkcję ponownie,
+   4. w przypadku rezygnacji lub odwołania członka Zarządu pozostali
+      członkowie Zarządu, za zgodą opiekunów naukowych, powołują następcę
+      w ciągu 30 dni,
+   5. rezygnacja z pełnionej funkcji powinna zostać złożona pisemnie na
       ręce Zarządu lub w przypadku rezygnacji z funkcji Prezesa na ręce
       Opiekuna,
-   4. wybory uzupełniające powinny zostać przeprowadzone w ciągu 30 dni
-      od pisemnej rezygnacji.
+   6. członka Zarządu odwołują opiekunowie naukowi z własnej inicjatywy
+      albo na wniosek pozostałych członków Zarządu.
 3. Prezes ponosi odpowiedzialność za działalność Koła przed władzami
    Politechniki Wrocławskiej. Wiceprezes zastępuje Prezesa, a Skarbnik
    prowadzi sprawy finansowe Koła.
 4. Zarząd podejmuje uchwały zwykłą większością głosów; przy równej
-   liczbie głosów rozstrzyga głos Prezesa.
+   liczbie głosów rozstrzyga głos Prezesa. Uchwały Zarządu są
+   protokołowane.
 5. Członkowie Zarządu zobowiązani są do złożenia pod koniec kadencji
-   sprawozdania ze swojej działalności.
+   sprawozdania ze swojej działalności opiekunom naukowym.
 
-## § 8.
+## § 8. Postanowienia końcowe
 
-1. Walne Zgromadzenie Członków jest najwyższym organem uchwałodawczym
-   Koła.
-2. W skład Zgromadzenia wchodzi ogół wszystkich członków Koła; prawo głosu
-   przysługuje członkom zwyczajnym.
-3. Walne Zgromadzenie Członków wybiera przewodniczącego, sekretarza,
-   członków komisji skrutacyjnej (co najmniej dwóch) oraz uchwala porządek
-   obrad.
-4. O terminie i miejscu obrad Zarząd zawiadamia członków, co najmniej
-   7 dni przed terminem Walnego Zgromadzenia Członków. Zgromadzenie może
-   obradować zdalnie.
-5. Walne Zgromadzenie Członków zwoływane jest przez Zarząd:
-   1. na żądanie 1/3 członków zwyczajnych,
-   2. co najmniej 2 razy w roku akademickim, jednak nie rzadziej niż raz
-      w semestrze,
-   3. na wniosek Prezesa Koła,
-   4. na wniosek opiekuna Koła.
-6. Uchwały Walnego Zgromadzenia Członków są wiążące, o ile w obradach
-   uczestniczy co najmniej połowa członków zwyczajnych.
-7. Jeżeli Zgromadzenie nie posiada kworum, Prezes wyznacza drugi termin
-   Zgromadzenia, nie wcześniej niż 1 dzień i nie później niż 7 dni od
-   poprzedniej daty Zgromadzenia.
-8. Kworum na Zgromadzeniu w drugim terminie stanowi liczba obecnych
-   podczas Zgromadzenia członków Koła.
-9. Uchwały Zgromadzenia zapadają zwykłą większością głosów przy
-   zachowaniu wymogów z ust. 6 i 8.
-10. Do kompetencji Walnego Zgromadzenia należą:
-    1. uchwalenie programu działalności Koła,
-    2. zatwierdzanie regulaminów wewnętrznych Koła,
-    3. uchwalenie wysokości dobrowolnej składki członkowskiej,
-    4. wybór i odwołanie wszystkich władz, a także ich pojedynczych
-       członków,
-    5. podejmowanie uchwał w sprawie przyjęcia członka honorowego,
-    6. przyjmowanie sprawozdań z działalności Zarządu,
-    7. udzielenie absolutorium ustępującemu Zarządowi,
-    8. rozpatrywanie wniosków i postulatów zgłoszonych przez członków lub
-       władze,
-    9. rozpatrywanie odwołań od uchwał Zarządu w sprawach członkostwa,
-    10. tworzenie i likwidacja sekcji,
-    11. podejmowanie uchwał w każdej sprawie wniesionej pod obrady, we
-        wszystkich sprawach niezastrzeżonych do kompetencji innych władz.
-11. Na wniosek 1/3 członków zwyczajnych lub opiekuna Koła Zarząd zwołuje
-    Nadzwyczajne Walne Zgromadzenie Członków.
-12. Nadzwyczajne Walne Zgromadzenie rozstrzyga tylko sprawy, dla których
-    zostało zwołane.
-13. Wniosek powinien określać cel zwołania Nadzwyczajnego Walnego
-    Zgromadzenia Członków.
-14. Nadzwyczajne Walne Zgromadzenie Członków powinno się odbyć najpóźniej
-    w ciągu 30 dni od złożenia wniosku na piśmie.
-15. Do odwołania członka lub członków Zarządu przed upływem kadencji
-    wymagana jest większość 2/3 głosów na Nadzwyczajnym Walnym Zgromadzeniu
-    Członków.
-
-## § 9. Postanowienia końcowe
-
-1. Zmiana Regulaminu wymaga uchwały Walnego Zgromadzenia Członków podjętej
-   większością 2/3 głosów przy obecności co najmniej połowy liczby członków
-   zwyczajnych.
+1. Zmiana Regulaminu wymaga uchwały Zarządu podjętej jednomyślnie, za
+   zgodą opiekunów naukowych.
 2. Zarząd Koła ma obowiązek pisemnego zawiadamiania Rektora Politechniki
    Wrocławskiej, za pośrednictwem właściwej jednostki administracyjnej,
-   o każdej zmianie treści niniejszego Regulaminu, zmianach w organach
-   Koła, zmianie Opiekuna oraz każdej uchwale Walnego Zgromadzenia
-   Członków, w terminie 14 dni od dnia dokonania zmiany.
-3. Walne Zgromadzenie Członków większością 2/3 głosów przy obecności co
-   najmniej połowy liczby członków zwyczajnych może podjąć uchwałę
-   w sprawie zawieszenia działalności lub rozwiązania Koła.
+   o każdej zmianie treści niniejszego Regulaminu, zmianach w składzie
+   Zarządu oraz zmianie Opiekuna, w terminie 14 dni od dnia dokonania
+   zmiany.
+3. Zarząd jednomyślną uchwałą, za zgodą opiekunów naukowych, może
+   zawiesić działalność Koła lub je rozwiązać.
 4. Rektor Politechniki Wrocławskiej, w drodze decyzji administracyjnej,
    rozwiązuje uczelnianą organizację studencką i doktorancką, która rażąco
    lub uporczywie narusza przepisy prawa powszechnie obowiązującego,
    statut uczelni, regulamin studiów lub Regulamin Koła.
-5. Koło ulega rozwiązaniu na mocy niniejszego Regulaminu, jeżeli w ciągu
-   dwóch lat nie odbyło się Walne Zgromadzenie Członków, którego protokół
-   przekazano Rektorowi Politechniki Wrocławskiej, za pośrednictwem
-   właściwej jednostki administracyjnej.
-6. Pierwszy Zarząd wybiera zebranie założycielskie, które wykonuje
-   uprawnienia Walnego Zgromadzenia Członków.
+5. Koło ulega rozwiązaniu na mocy niniejszego Regulaminu, jeżeli przez dwa
+   lata nie złożyło uczelni sprawozdania rocznego.
+6. Regulamin uchwalają członkowie-założyciele na zebraniu założycielskim.
 
 ---
 
@@ -277,6 +217,7 @@ opiekunowie naukowi.
 | --- | --- |
 | Zgody Dziekanów lub Prodziekanów ds. Studenckich W4N (wiodący) i Wydziału Mechanicznego | do uzyskania, [szablony](dokumenty/README.md) |
 | Pisemne zgody obu opiekunów i ich podpisy pod Regulaminem | do uzyskania |
+| Regulamin bez Walnego Zgromadzenia: Zarząd jako jedyna władza, kontrola opiekunów (§ 6 ust. 1, § 7 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; szablon PWr przewiduje Walne Zgromadzenie |
 | Tryb koła międzywydziałowego i dwóch opiekunów (§ 1 ust. 5, § 6 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich |
 | Członkowie kolektywu Machinekind spoza PWr jako wspierający (§ 5 ust. 1 pkt 1.1, ust. 2 pkt 2.2) | do potwierdzenia, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Oświadczenie o własności intelektualnej (§ 3 ust. 1 pkt 1.6) | do uzgodnienia, [#4](https://github.com/machinekind/machinekind-students/issues/4) |

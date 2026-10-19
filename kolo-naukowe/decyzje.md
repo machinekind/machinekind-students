@@ -162,3 +162,22 @@ Status wpisu: przyjęty.
   najmniej 2 razy w roku akademickim; członkowie Zarządu składają
   sprawozdanie na koniec kadencji; nadzwyczajne Walne w 30 dni.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Bez Walnego Zgromadzenia: władzą jest Zarząd
+
+Status wpisu: w uzgodnieniu (do potwierdzenia przez Sekcję Wsparcia
+Organizacji Studenckich, bo szablon PWr przewiduje Walne Zgromadzenie).
+
+- **Co:** z regulaminu usunięte Walne Zgromadzenie Członków (dawny § 8)
+  i głosowania członków. Jedyną władzą jest Zarząd: Prezes, Wiceprezes,
+  Skarbnik. Pierwszy Zarząd wybierają członkowie-założyciele na zebraniu
+  założycielskim; kolejny powołuje ustępujący Zarząd za zgodą opiekunów
+  naukowych. Członka Zarządu odwołują opiekunowie. Odwołanie od
+  wykluczenia członka rozstrzygają opiekunowie. Zmiana regulaminu
+  i rozwiązanie koła: jednomyślna uchwała Zarządu za zgodą opiekunów.
+  Rozwiązanie z mocy regulaminu po dwóch latach bez sprawozdania
+  rocznego (zamiast dwóch lat bez Walnego Zgromadzenia).
+- **Dlaczego:** koło ma działać prosto, bez zgromadzeń i głosowań.
+  Ustawa (art. 111) nie wymaga Walnego Zgromadzenia; minimum, którego
+  wymaga PWr, to opisany tryb wyboru władz i protokół z wyboru władz.
+- **Kto:** Grzegorz Piotrowski.
