@@ -111,3 +111,44 @@ nie przyjąć:
   przez Walne Zgromadzenie.
 - **Nazwa z marką Machinekind**: wymaga zgody kolektywu (§ 1 ust. 11);
   uczelnia może zapytać o charakter współpracy (umowa, #3).
+
+## 6. Sprawdzenie wersji § 1–8 (bez Walnego Zgromadzenia)
+
+Stan na 19.10.2026, po uproszczeniu i usunięciu Walnego Zgromadzenia.
+
+**Elementy wymagane przez informator DWAS: wszystkie są.**
+
+| Element | Gdzie |
+| --- | --- |
+| nazwa | § 1 ust. 1–2 |
+| gospodarowanie środkami i mieniem | § 4, § 7 ust. 1 pkt 1.6 |
+| cele i sposoby realizacji | § 2, § 3 |
+| nabywanie i utrata członkostwa, prawa i obowiązki | § 5 |
+| władze, tryb wyboru, kadencja, kompetencje | § 6 ust. 1, § 7 |
+| sposób reprezentacji | § 7 ust. 1 pkt 1.1, ust. 3 (doprecyzowane: Prezes, w zastępstwie Wiceprezes) |
+| tryb uchwalania i zmiany regulaminu | § 8 ust. 1, 6 |
+| tryb rozwiązania | § 8 ust. 3–5 |
+
+**Art. 111 ustawy:** zgodne (§ 1 ust. 1 i 8, § 8 ust. 2 i 4).
+
+**Zgodne z szablonem PWr:** § 1 (wszystkie ustępy szablonu), § 2, § 3, § 4,
+§ 5 ust. 2–6, zadania Zarządu w § 7 ust. 1, rezygnacja Prezesa na ręce
+opiekuna, odpowiedzialność Prezesa, sprawozdanie członków Zarządu,
+zawiadamianie Rektora w 14 dni, decyzja administracyjna Rektora.
+
+**Świadome odstępstwa od szablonu** (do potwierdzenia w Sekcji Wsparcia
+Organizacji Studenckich, pytania 4 i 10 w
+[pytania-do-swos.md](../../kolo-naukowe/dokumenty/pytania-do-swos.md)):
+
+1. Brak Walnego Zgromadzenia Członków (szablon § 6, § 8): władzą jest
+   tylko Zarząd.
+2. Wybór Zarządu (szablon § 7 ust. 2): pierwszy wybierają założyciele,
+   kolejny powołuje ustępujący Zarząd za zgodą opiekuna, zamiast
+   głosowania tajnego na Walnym Zgromadzeniu.
+3. Odwołanie od wykluczenia (szablon § 5 ust. 7): do opiekuna naukowego,
+   nie do Walnego Zgromadzenia.
+4. Zmiana regulaminu i rozwiązanie (szablon § 9 ust. 1, 3, 5): uchwała
+   Zarządu za zgodą opiekuna; rozwiązanie z mocy regulaminu po dwóch
+   latach bez sprawozdania, nie bez Walnego Zgromadzenia.
+5. Członkowie spoza PWr (szablon § 5 ust. 1): członkowie kolektywu
+   Machinekind jako członkowie wspierający.

@@ -160,14 +160,14 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawuje opiekun.
    7. składa uczelni sprawozdanie roczne do 15 stycznia i informuje
       członków o działalności Koła,
    8. opracowuje preliminarz finansowy i programowy Koła,
-   9. powołuje zespoły projektowe do budowy konkretnych
-      maszyn.
+   9. powołuje zespoły projektowe do budowy konkretnych maszyn.
 2. Kadencja i skład Zarządu:
    1. kadencja Zarządu trwa rok akademicki; członkiem Zarządu może być
       członek zwyczajny Koła,
    2. pierwszy Zarząd wybierają członkowie-założyciele na zebraniu
       założycielskim,
-   3. Zarząd na kolejną kadencję powołuje ustępujący Zarząd, za zgodą opiekuna naukowego; ta sama osoba może pełnić funkcję ponownie,
+   3. Zarząd na kolejną kadencję powołuje ustępujący Zarząd, za zgodą
+      opiekuna naukowego; ta sama osoba może pełnić funkcję ponownie,
    4. w przypadku rezygnacji lub odwołania członka Zarządu pozostali
       członkowie Zarządu, za zgodą opiekuna naukowego, powołują następcę
       w ciągu 30 dni,
@@ -176,9 +176,10 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawuje opiekun.
       Opiekuna,
    6. członka Zarządu odwołuje opiekun naukowy z własnej inicjatywy
       albo na wniosek pozostałych członków Zarządu.
-3. Prezes ponosi odpowiedzialność za działalność Koła przed władzami
-   Politechniki Wrocławskiej. Wiceprezes zastępuje Prezesa, a Skarbnik
-   prowadzi sprawy finansowe Koła.
+3. Koło reprezentuje na zewnątrz Prezes, a w jego zastępstwie
+   Wiceprezes. Prezes ponosi odpowiedzialność za działalność Koła przed
+   władzami Politechniki Wrocławskiej. Skarbnik prowadzi sprawy finansowe
+   Koła.
 4. Zarząd podejmuje uchwały zwykłą większością głosów; przy równej
    liczbie głosów rozstrzyga głos Prezesa. Uchwały Zarządu są
    protokołowane.
@@ -187,7 +188,8 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawuje opiekun.
 
 ## § 8. Postanowienia końcowe
 
-1. Zmiana Regulaminu wymaga uchwały Zarządu podjętej jednomyślnie, za zgodą opiekuna naukowego.
+1. Zmiana Regulaminu wymaga uchwały Zarządu podjętej jednomyślnie, za
+   zgodą opiekuna naukowego.
 2. Zarząd Koła ma obowiązek pisemnego zawiadamiania Rektora Politechniki
    Wrocławskiej, za pośrednictwem właściwej jednostki administracyjnej,
    o każdej zmianie treści niniejszego Regulaminu, zmianach w składzie
