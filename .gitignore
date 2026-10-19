@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.claude/
+.agents/
+CLAUDE.local.md
+notes/
