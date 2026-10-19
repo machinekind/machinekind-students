@@ -1,0 +1,50 @@
+name: Propozycja zadania semestralnego
+description: Pomysł na zadanie do programu semestralnego koła.
+title: "Zadanie: "
+labels: ["propozycja-zadania"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Zasada programu: zadanie kończy się czymś, co się uruchamia, i ma jedno kryterium odbioru, które da się sprawdzić w pięć minut. Szczegóły techniczne trzymaj w repozytorium projektu, tutaj podlinkuj.
+  - type: dropdown
+    id: domena
+    attributes:
+      label: Sekcja
+      options:
+        - Locomotion AI
+        - World Models & VLM
+        - Robotics Engineering & Manufacturing
+        - Control & Embedded Systems
+        - Design & Program
+    validations:
+      required: true
+  - type: textarea
+    id: zadanie
+    attributes:
+      label: Zadanie
+      description: Co powstaje w ciągu semestru.
+    validations:
+      required: true
+  - type: textarea
+    id: kryterium
+    attributes:
+      label: Kryterium „uruchamia się”
+      description: Jedno sprawdzalne kryterium odbioru.
+    validations:
+      required: true
+  - type: textarea
+    id: wymagania
+    attributes:
+      label: Wymagania wstępne
+      description: Co trzeba umieć na starcie.
+  - type: textarea
+    id: zasoby
+    attributes:
+      label: Potrzebne zasoby
+      description: Sprzęt, dane, GPU, obróbka. Wpisz „do ustalenia”, jeśli nie wiadomo.
+  - type: input
+    id: mentor
+    attributes:
+      label: Proponowany mentor
+      description: Osoba z zespołu kolektywu wymieniona na machinekind.ai albo „do ustalenia”.
