@@ -9,7 +9,8 @@ w repozytorium.
 
 **PROTOKÓŁ**
 **z zebrania założycielskiego Koła Naukowego Machinekind**
-**przy Wydziale Mechanicznym Politechniki Wrocławskiej**
+**międzywydziałowego, przy Wydziale Informatyki i Telekomunikacji
+oraz Wydziale Mechanicznym Politechniki Wrocławskiej**
 
 Data: …………………… Godzina: ……………… Miejsce: ……………………………………
 
@@ -34,8 +35,9 @@ Goście: ……………………………………………………
 ## Przebieg i uchwały
 
 **Uchwała nr 1/…** w sprawie założenia Koła
-Zebranie postanawia założyć Koło Naukowe Machinekind przy Wydziale
-Mechanicznym Politechniki Wrocławskiej.
+Zebranie postanawia założyć Koło Naukowe Machinekind jako międzywydziałowe
+koło naukowe przy Wydziale Informatyki i Telekomunikacji (wydział
+wiodący) oraz Wydziale Mechanicznym Politechniki Wrocławskiej.
 Głosowanie jawne: za ……, przeciw ……, wstrzymało się ……
 
 **Uchwała nr 2/…** w sprawie uchwalenia regulaminu
@@ -58,8 +60,8 @@ Koło zostanie zarejestrowane (§ 9 ust. 8 regulaminu).
 
 **Uchwała nr 4/…** w sprawie wniosku o powołanie opiekunów naukowych
 Zebranie wnosi o powołanie na opiekunów naukowych Koła:
-dr. hab. inż. Jarosława Szreka, prof. uczelni, oraz
-dr. hab. inż. Tomasza Kajdanowicza.
+dr. hab. inż. Tomasza Kajdanowicza oraz dr. hab. inż. Jarosława Szreka,
+prof. uczelni.
 Głosowanie jawne: za ……, przeciw ……, wstrzymało się ……
 
 **Uchwała nr 5/…** w sprawie upoważnienia przedstawiciela

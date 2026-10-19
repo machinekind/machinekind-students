@@ -8,7 +8,8 @@ umieszczamy w repozytorium.
 
 **DEKLARACJA ZAŁOŻYCIELSKA**
 **Koła Naukowego Machinekind**
-**przy Wydziale Mechanicznym Politechniki Wrocławskiej**
+**międzywydziałowego, przy Wydziale Informatyki i Telekomunikacji
+oraz Wydziale Mechanicznym Politechniki Wrocławskiej**
 
 Wrocław, dn. ……………………
 
@@ -21,15 +22,17 @@ wyższym i nauce.
 **Cel działania.** Koło rozwija physical AI, czyli inteligencję działającą
 w fizycznym świecie, na prawdziwym sprzęcie, i prowadzi badania z tego
 zakresu: lokomocję uczoną w symulacji i przenoszoną na maszynę, modele
-świata i modele wizyjno-językowe, robotykę kroczącą, konstrukcję i napędy
-maszyn. Koło pracuje w krótkich iteracjach zakończonych działającym
+świata i modele wizyjno-językowe, roboty kroczące, w tym czworonożne
+i humanoidalne, konstrukcję i napędy maszyn. Koło pracuje w krótkich iteracjach zakończonych działającym
 wynikiem i współpracuje z kolektywem Machinekind.
 
-**Jednostka.** Koło będzie działać przy Wydziale Mechanicznym Politechniki
-Wrocławskiej, z siedzibą w Laboratorium Mechatroniki i Robotyki.
+**Jednostka.** Koło będzie międzywydziałowym kołem naukowym działającym przy
+Wydziale Informatyki i Telekomunikacji (wydział wiodący, siedziba
+w Katedrze Sztucznej Inteligencji) oraz przy Wydziale Mechanicznym
+(Laboratorium Mechatroniki i Robotyki) Politechniki Wrocławskiej.
 
-**Opiekunowie naukowi.** dr hab. inż. Jarosław Szrek, prof. uczelni,
-oraz dr hab. inż. Tomasz Kajdanowicz.
+**Opiekunowie naukowi.** dr hab. inż. Tomasz Kajdanowicz oraz dr hab. inż.
+Jarosław Szrek, prof. uczelni.
 
 Podpisując deklarację, akceptujemy projekt regulaminu Koła i wyrażamy
 zgodę na przetwarzanie naszych danych osobowych przez Politechnikę

@@ -15,9 +15,22 @@ Oznaczenia w tym dokumencie:
 Opracowania aktów pozostałych wrocławskich uczelni i regulaminów
 istniejących kół są w [docs/regulaminy/](regulaminy/README.md).
 
-Decyzja z 19.10.2026: koło zakładamy na PWr, przy Wydziale Mechanicznym
-(patrz [kolo-naukowe/decyzje.md](../kolo-naukowe/decyzje.md)). Opis UWr
-zostaje jako materiał porównawczy.
+Decyzja z 19.10.2026: koło zakładamy na PWr jako koło międzywydziałowe,
+przy Wydziale Informatyki i Telekomunikacji (wiodący) oraz Wydziale
+Mechanicznym (patrz [kolo-naukowe/decyzje.md](../kolo-naukowe/decyzje.md)).
+Opis UWr zostaje jako materiał porównawczy.
+
+## Koła międzywydziałowe na PWr
+
+- PWr rozróżnia koła wydziałowe i międzywydziałowe; Wydział Mechaniczny
+  wymienia osiem kół międzywydziałowych, m.in. PWR Racing Team (trzech
+  opiekunów) i Scorpio (czterech opiekunów)
+  ([strona WM](https://wm.pwr.edu.pl/studenci/kola-naukowe); potwierdzone).
+  Koło może więc mieć kilku opiekunów.
+- Procedury zakładania koła międzywydziałowego, wymaganych zgód (czy
+  wszystkich wydziałów) i roli wydziału wiodącego nie znaleźliśmy:
+  **niepotwierdzone**, do zapytania w Sekcji Wsparcia Organizacji
+  Studenckich. Przyjmujemy zgody dziekanów obu wydziałów.
 
 ## Wspólna podstawa prawna
 

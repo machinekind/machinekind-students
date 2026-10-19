@@ -112,6 +112,10 @@ Co z tego wynika dla koła, a czego strona nie rozstrzyga: patrz
 
 ## Inne publiczne działania
 
+- **Humanoid**: kolektyw prowadzi prace nad humanoidem (publiczne
+  repozytoria `humanoid-lab`, setup treningu RL lokomocji humanoida,
+  i `humanoid-construction`, dokumentacja budowy). Strona machinekind.ai
+  go nie opisuje; własność i miejsce maszyny: do ustalenia.
 - **Hackathon 18–19 września 2026**: projekt „Sortownia i Physical AI” na
   platformie Open Mercato (repozytorium `openmercato_garbagekind`). Nazwa
   i organizator hackathonu: do ustalenia, README ich nie podaje.

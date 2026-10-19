@@ -38,7 +38,8 @@ Status wpisu: w uzgodnieniu (wymaga zgód osób i organów wymienionych
 w „Warunki”).
 
 - **Co:**
-  1. **Uczelnia i wydział:** Koło zakładamy na Politechnice Wrocławskiej,
+  1. *(Zmienione wpisem „Koło międzywydziałowe” poniżej.)*
+     **Uczelnia i wydział:** Koło zakładamy na Politechnice Wrocławskiej,
      przy Wydziale Mechanicznym, z siedzibą w Laboratorium Mechatroniki
      i Robotyki (#1).
   2. **Opiekunowie naukowi:** dr hab. inż. Jarosław Szrek, prof. uczelni
@@ -75,4 +76,25 @@ w „Warunki”).
   opiekunów z różnych wydziałów i członków wspierających spoza uczelni;
   zgoda kolektywu na użycie nazwy Machinekind; uchwała zebrania
   założycielskiego.
+- **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Koło międzywydziałowe, wiodący Wydział Informatyki i Telekomunikacji
+
+Status wpisu: w uzgodnieniu. Zmienia punkt 1 wpisu „Decyzje
+założycielskie” (koło tylko przy Wydziale Mechanicznym); kolejność
+opiekunów z punktu 2 odwraca się.
+
+- **Co:** Koło jest międzywydziałowym kołem naukowym PWr. Wydziałem
+  wiodącym jest Wydział Informatyki i Telekomunikacji (W4N), siedzibą
+  Katedra Sztucznej Inteligencji; drugim wydziałem jest Wydział
+  Mechaniczny, gdzie w Laboratorium Mechatroniki i Robotyki koło prowadzi
+  prace na sprzęcie. Pierwszy opiekun: dr hab. inż. Tomasz Kajdanowicz
+  (W4N); drugi: dr hab. inż. Jarosław Szrek, prof. uczelni (WM).
+- **Dlaczego:** koło obejmuje nie tylko czworonoga W01-TEK z Wydziału
+  Mechanicznego, ale też humanoida kolektywu, a misją jest physical AI,
+  czyli przede wszystkim warstwa inteligencji; członkowie przychodzą
+  z różnych wydziałów.
+- **Warunki:** zgody dziekanów lub prodziekanów ds. studenckich obu
+  wydziałów; potwierdzenie trybu koła międzywydziałowego w Sekcji
+  Wsparcia Organizacji Studenckich.
 - **Kto:** Grzegorz Piotrowski.

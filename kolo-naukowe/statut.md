@@ -19,22 +19,29 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    jest uczelnianą organizacją studencką w rozumieniu art. 111 ustawy z dnia 20 lipca 2018 r.
    Prawo o szkolnictwie wyższym i nauce.
 2. Koło może używać skróconej nazwy „KN Machinekind”.
-3. Koło działa w Politechnice Wrocławskiej, zwanej dalej uczelnią, przy
-   Wydziale Mechanicznym. Siedzibą Koła jest Laboratorium Mechatroniki
-   i Robotyki Wydziału Mechanicznego, bud. …, pok. ….
-4. Koło opiera swoją działalność na dobrowolnej pracy członków.
-5. Podstawę prawną działania Koła stanowią: niniejszy regulamin, statut
+3. Koło jest międzywydziałowym kołem naukowym Politechniki Wrocławskiej,
+   zwanej dalej uczelnią, działającym przy Wydziale Informatyki
+   i Telekomunikacji oraz przy Wydziale Mechanicznym. Sprawy Koła wobec
+   uczelni prowadzi Wydział Informatyki i Telekomunikacji jako wydział
+   wiodący. Siedzibą Koła jest Katedra Sztucznej Inteligencji Wydziału
+   Informatyki i Telekomunikacji, bud. …, pok. …. Koło prowadzi prace
+   także w jednostkach Wydziału Mechanicznego, w szczególności
+   w Laboratorium Mechatroniki i Robotyki.
+4. Członkami Koła mogą być studenci i doktoranci wszystkich wydziałów
+   uczelni.
+5. Koło opiera swoją działalność na dobrowolnej pracy członków.
+6. Podstawę prawną działania Koła stanowią: niniejszy regulamin, statut
    uczelni i inne akty prawa wewnętrznego uczelni oraz przepisy prawa
    powszechnie obowiązującego. W razie sprzeczności pierwszeństwo mają
    przepisy uczelni.
-6. Koło działa na czas nieokreślony.
-7. Koło nie ma osobowości prawnej i nie prowadzi działalności zarobkowej.
+7. Koło działa na czas nieokreślony.
+8. Koło nie ma osobowości prawnej i nie prowadzi działalności zarobkowej.
    Sposób pracy opisany w § 2 ust. 2 nie oznacza prowadzenia działalności
    gospodarczej przez Koło.
-8. Rektor uchyla akt organu Koła niezgodny z przepisami prawa powszechnie
+9. Rektor uchyla akt organu Koła niezgodny z przepisami prawa powszechnie
    obowiązującego, statutem uczelni, regulaminem studiów lub niniejszym
    regulaminem.
-9. Używanie nazwy i znaku uczelni wymaga zgody w trybie określonym przez
+10. Używanie nazwy i znaku uczelni wymaga zgody w trybie określonym przez
    uczelnię; używanie nazwy i znaku Machinekind wymaga zgody kolektywu.
 
 ## § 2. Misja i cele
@@ -57,7 +64,8 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
 3. **Cele.** Celami Koła są:
    1. prowadzenie badań i prac konstrukcyjnych z zakresu physical AI:
       lokomocji uczonej w symulacji i przenoszonej na maszynę (sim-to-real),
-      modeli świata i modeli wizyjno-językowych, robotyki kroczącej
+      modeli świata i modeli wizyjno-językowych, robotów kroczących,
+      w tym czworonożnych i humanoidalnych,
       i manipulacji, konstrukcji i napędów maszyn;
    2. publikowanie wyników badań: artykuły, prace dyplomowe, wystąpienia
       konferencyjne, otwarte repozytoria i zbiory danych;
@@ -94,7 +102,9 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    4. dobrowolne składki członkowskie, jeśli uchwali je Walne Zgromadzenie.
 2. Środki Koła mogą być wydane wyłącznie na cele określone w § 2.
 3. Środkami i mieniem w dyspozycji Koła gospodaruje Zarząd, z zastrzeżeniem
-   uprawnień opiekuna naukowego i przepisów uczelni.
+   uprawnień opiekuna naukowego i przepisów uczelni. Mienie uczelni
+   w dyspozycji Koła pozostaje przypisane do wydziału, który je
+   udostępnił.
 4. Wnioski o dofinansowanie, rozliczenia i inne dokumenty finansowe
    podpisują dwie osoby: Skarbnik oraz Prezes albo Wiceprezes.
 5. Sprzęt udostępniony Kołu pozostaje własnością jego właściciela. Robot
@@ -354,10 +364,11 @@ opiekunowie naukowi. Miejsca oznaczone „…” uzupełnia się przed drukiem.
    3. opiniuje program semestralny i plan badań Koła;
    4. akceptuje zmiany regulaminu przed ich zgłoszeniem uczelni;
    5. może zwołać Walne Zgromadzenie.
-3. Koło ma dwóch opiekunów naukowych: jednego z Wydziału Mechanicznego
-   i jednego z jednostki uczelni prowadzącej badania w zakresie sztucznej
-   inteligencji. Każdy z nich wykonuje uprawnienia z ust. 2; dokumenty
-   podpisuje co najmniej jeden z nich.
+3. Koło ma dwóch opiekunów naukowych: jednego z Wydziału Informatyki
+   i Telekomunikacji i jednego z Wydziału Mechanicznego. Każdy z nich
+   wykonuje uprawnienia z ust. 2; dokumenty podpisuje co najmniej jeden
+   z nich, a dokumenty dotyczące mienia lub środków danego wydziału:
+   opiekun z tego wydziału.
 
 ## § 13. Współpraca, własność wyników i przedsięwzięcia członków
 
@@ -438,9 +449,9 @@ Poza tekstem regulaminu, ale potrzebne do rejestracji:
 
 | Sprawa | Stan |
 | --- | --- |
-| Zgoda Dziekana lub Prodziekana ds. Studenckich Wydziału Mechanicznego | do uzyskania, [szablon](dokumenty/README.md) |
+| Zgody Dziekanów lub Prodziekanów ds. Studenckich Wydziału Informatyki i Telekomunikacji (wiodący) oraz Wydziału Mechanicznego | do uzyskania, [szablon](dokumenty/README.md) |
 | Pisemne zgody obu opiekunów i ich podpisy pod regulaminem | do uzyskania, [szablon](dokumenty/README.md) |
-| Czy PWr dopuszcza dwóch opiekunów z różnych wydziałów (§ 12 ust. 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich |
+| Tryb rejestracji koła międzywydziałowego: czy wystarczą zgody obu wydziałów, który wydział opiniuje wnioski o finansowanie (§ 1 ust. 3, § 12 ust. 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; koła międzywydziałowe z kilkoma opiekunami istnieją na Wydziale Mechanicznym (np. PWR Racing Team) |
 | Członkowie spoza uczelni jako wspierający (§ 5 ust. 1 pkt 3) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Numer budynku i pokoju siedziby (§ 1 ust. 3) | do uzupełnienia, [#5](https://github.com/machinekind/machinekind-students/issues/5) |
 | Treść oświadczenia o własności intelektualnej (§ 13 ust. 3) | do uzgodnienia z uczelnią, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
