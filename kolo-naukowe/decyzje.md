@@ -181,3 +181,17 @@ Organizacji Studenckich, bo szablon PWr przewiduje Walne Zgromadzenie).
   Ustawa (art. 111) nie wymaga Walnego Zgromadzenia; minimum, którego
   wymaga PWr, to opisany tryb wyboru władz i protokół z wyboru władz.
 - **Kto:** Grzegorz Piotrowski.
+
+## 2026-10-19 — Elastyczna liczba opiekunów, sekcje poza regulaminem
+
+Status wpisu: przyjęty.
+
+- **Co:** regulamin wymaga co najmniej jednego opiekuna naukowego
+  (może być ich więcej; zgodę wyraża którykolwiek). Planowani opiekunowie
+  bez zmian: T. Kajdanowicz i J. Szrek. Lista sekcji usunięta
+  z regulaminu; organizacja pracy w sekcjach i zespołach zostaje
+  w dokumentach koła (np. `program.md`) i decyzjach Zarządu.
+- **Dlaczego:** regulamin ma nie wiązać koła liczbą opiekunów ani
+  podziałem na sekcje; zmiana któregokolwiek nie będzie wymagała zmiany
+  regulaminu.
+- **Kto:** Grzegorz Piotrowski.

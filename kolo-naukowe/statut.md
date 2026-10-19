@@ -9,8 +9,8 @@ bez Walnego Zgromadzenia, stąd § 1–8. Decyzje założycielskie:
 ciągłości odnośników.
 
 Regulamin uchwalają członkowie-założyciele na zebraniu założycielskim;
-przed złożeniem podpisują go opiekunowie naukowi. Koło nie ma Walnego
-Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
+przed złożeniem podpisuje go opiekun naukowy. Koło nie ma Walnego
+Zgromadzenia: władzą jest Zarząd, a kontrolę sprawuje opiekun.
 
 ---
 
@@ -60,7 +60,7 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
 ## § 3.
 
 1. Koło realizuje cele, o których mowa w § 2, poprzez:
-   1. projekty prowadzone w sekcjach i zespołach projektowych, z których
+   1. projekty prowadzone w zespołach projektowych, z których
       każdy kończy się działającym wynikiem,
    2. regularne spotkania i pokazy wyników,
    3. dzień demonstracyjny dla inwestorów i partnerów, organizowany co
@@ -105,7 +105,7 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
    3. członków honorowych.
 3. O przyjęciu w poczet członka Koła decyduje Zarząd w drodze uchwały
    podjętej zwykłą większością głosów, po złożeniu deklaracji
-   członkowskiej i wykonaniu zadania wstępnego w wybranej sekcji.
+   członkowskiej i wykonaniu zadania wstępnego.
    Członków honorowych powołuje Zarząd.
 4. Członkowi Koła przysługuje prawo do:
    1. udziału w pracach i spotkaniach Koła,
@@ -130,8 +130,8 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
    4. pisemnego wniosku członka.
 7. Przed podjęciem decyzji na podstawie ust. 6 pkt 6.1 i 6.3 członek może
    złożyć wyjaśnienia. Od decyzji podjętej przez Zarząd na tej podstawie
-   przysługuje odwołanie do opiekunów naukowych w terminie 14 dni od daty
-   jej otrzymania; opiekunowie rozstrzygają je ostatecznie.
+   przysługuje odwołanie do opiekuna naukowego w terminie 14 dni od daty
+   jej otrzymania; opiekun rozstrzyga je ostatecznie.
 
 ## § 6. Struktura organizacyjna
 
@@ -139,16 +139,12 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
    1. Prezes,
    2. Wiceprezes,
    3. Skarbnik.
-2. Koło posiada dwóch opiekunów naukowych, nauczycieli akademickich
-   Politechniki Wrocławskiej: z Wydziału Informatyki i Telekomunikacji
-   oraz z Wydziału Mechanicznego, powołanych za ich pisemną zgodą.
-   Opiekun nadzoruje zgodność działań Koła z Regulaminem, podpisuje plany pracy, wnioski o dofinansowanie i sprawozdania oraz
-   wyraża zgodę na sprawy wskazane w Regulaminie.
-3. Prace Koła prowadzą sekcje: Lokomocji (Locomotion AI), Modeli Świata
-   (World Models & VLM), Konstrukcji i Wytwarzania (Robotics Engineering
-   & Manufacturing), Automatyki i Systemów Wbudowanych (Control & Embedded
-   Systems) oraz Wzornictwa i Prowadzenia Projektów (Design & Program). Sekcje tworzy
-   i likwiduje Zarząd.
+2. Koło posiada opiekuna naukowego, nauczyciela akademickiego Politechniki
+   Wrocławskiej, powołanego za jego pisemną zgodą. Koło może mieć więcej
+   niż jednego opiekuna; zgodę wymaganą w Regulaminie wyraża wtedy
+   którykolwiek z nich. Opiekun nadzoruje zgodność działań Koła
+   z Regulaminem i podpisuje plany pracy, wnioski o dofinansowanie
+   i sprawozdania.
 
 ## § 7.
 
@@ -164,22 +160,21 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
    7. składa uczelni sprawozdanie roczne do 15 stycznia i informuje
       członków o działalności Koła,
    8. opracowuje preliminarz finansowy i programowy Koła,
-   9. tworzy sekcje i powołuje zespoły projektowe do budowy konkretnych
+   9. powołuje zespoły projektowe do budowy konkretnych
       maszyn.
 2. Kadencja i skład Zarządu:
    1. kadencja Zarządu trwa rok akademicki; członkiem Zarządu może być
       członek zwyczajny Koła,
    2. pierwszy Zarząd wybierają członkowie-założyciele na zebraniu
       założycielskim,
-   3. Zarząd na kolejną kadencję powołuje ustępujący Zarząd, za zgodą
-      opiekunów naukowych; ta sama osoba może pełnić funkcję ponownie,
+   3. Zarząd na kolejną kadencję powołuje ustępujący Zarząd, za zgodą opiekuna naukowego; ta sama osoba może pełnić funkcję ponownie,
    4. w przypadku rezygnacji lub odwołania członka Zarządu pozostali
-      członkowie Zarządu, za zgodą opiekunów naukowych, powołują następcę
+      członkowie Zarządu, za zgodą opiekuna naukowego, powołują następcę
       w ciągu 30 dni,
    5. rezygnacja z pełnionej funkcji powinna zostać złożona pisemnie na
       ręce Zarządu lub w przypadku rezygnacji z funkcji Prezesa na ręce
       Opiekuna,
-   6. członka Zarządu odwołują opiekunowie naukowi z własnej inicjatywy
+   6. członka Zarządu odwołuje opiekun naukowy z własnej inicjatywy
       albo na wniosek pozostałych członków Zarządu.
 3. Prezes ponosi odpowiedzialność za działalność Koła przed władzami
    Politechniki Wrocławskiej. Wiceprezes zastępuje Prezesa, a Skarbnik
@@ -188,18 +183,17 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
    liczbie głosów rozstrzyga głos Prezesa. Uchwały Zarządu są
    protokołowane.
 5. Członkowie Zarządu zobowiązani są do złożenia pod koniec kadencji
-   sprawozdania ze swojej działalności opiekunom naukowym.
+   sprawozdania ze swojej działalności opiekunowi naukowemu.
 
 ## § 8. Postanowienia końcowe
 
-1. Zmiana Regulaminu wymaga uchwały Zarządu podjętej jednomyślnie, za
-   zgodą opiekunów naukowych.
+1. Zmiana Regulaminu wymaga uchwały Zarządu podjętej jednomyślnie, za zgodą opiekuna naukowego.
 2. Zarząd Koła ma obowiązek pisemnego zawiadamiania Rektora Politechniki
    Wrocławskiej, za pośrednictwem właściwej jednostki administracyjnej,
    o każdej zmianie treści niniejszego Regulaminu, zmianach w składzie
    Zarządu oraz zmianie Opiekuna, w terminie 14 dni od dnia dokonania
    zmiany.
-3. Zarząd jednomyślną uchwałą, za zgodą opiekunów naukowych, może
+3. Zarząd jednomyślną uchwałą, za zgodą opiekuna naukowego, może
    zawiesić działalność Koła lub je rozwiązać.
 4. Rektor Politechniki Wrocławskiej, w drodze decyzji administracyjnej,
    rozwiązuje uczelnianą organizację studencką i doktorancką, która rażąco
@@ -216,9 +210,9 @@ Zgromadzenia: władzą jest Zarząd, a kontrolę sprawują opiekunowie.
 | Sprawa | Stan |
 | --- | --- |
 | Zgody Dziekanów lub Prodziekanów ds. Studenckich W4N (wiodący) i Wydziału Mechanicznego | do uzyskania, [szablony](dokumenty/README.md) |
-| Pisemne zgody obu opiekunów i ich podpisy pod Regulaminem | do uzyskania |
-| Regulamin bez Walnego Zgromadzenia: Zarząd jako jedyna władza, kontrola opiekunów (§ 6 ust. 1, § 7 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; szablon PWr przewiduje Walne Zgromadzenie |
-| Tryb koła międzywydziałowego i dwóch opiekunów (§ 1 ust. 5, § 6 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich |
+| Pisemne zgody opiekunów (planowani: T. Kajdanowicz, J. Szrek) i podpisy pod Regulaminem | do uzyskania |
+| Regulamin bez Walnego Zgromadzenia: Zarząd jako jedyna władza, kontrola opiekuna (§ 6 ust. 1, § 7 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich; szablon PWr przewiduje Walne Zgromadzenie |
+| Tryb koła międzywydziałowego, opiekunowie z dwóch wydziałów (§ 1 ust. 5, § 6 ust. 2) | do potwierdzenia w Sekcji Wsparcia Organizacji Studenckich |
 | Członkowie kolektywu Machinekind spoza PWr jako wspierający (§ 5 ust. 1 pkt 1.1, ust. 2 pkt 2.2) | do potwierdzenia, [#6](https://github.com/machinekind/machinekind-students/issues/6) |
 | Oświadczenie o własności intelektualnej (§ 3 ust. 1 pkt 1.6) | do uzgodnienia, [#4](https://github.com/machinekind/machinekind-students/issues/4) |
 | Umowa uczelnia–Machinekind (§ 3 ust. 1 pkt 1.5) | do uzgodnienia, [#3](https://github.com/machinekind/machinekind-students/issues/3) |
